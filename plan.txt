@@ -1,0 +1,40 @@
+I will write an initial script that will gather links to subcategories, which will take approximately 2-4 hours.
+
+Then, a script that can collect links to each product, taking pagination into account, will also take around 2-4 hours.
+
+Afterward, I will need a script to gather all the information about the products, which will take approximately 10-15 hours.
+
+Next, I'll need to set up a database because there are many products, and I don't want to store this information on my local computer. Setting up the server and the database will take around 5 hours.
+
+I'll write a script that interacts with the database, which will take about 2-3 hours.
+
+This estimation doesn't include dealing with website protection.
+
+The website has bot protection, but it's not constant. I need to understand how often it appears and if it's possible to bypass it by simply changing the user agent. I might be able to avoid CAPTCHA by changing the user agent and using pauses between requests. However, after writing the script and running it on the server with pauses, it may take some time because there seem to be many products at first glance.
+
+To understand how to bypass the protections, it will take 5-10 hours.
+
+If all attempts to bypass the protection fail, there's another option. I found an API on the website. I will try registering there and see what can be done using the API. However, I read that using the API, I can only make a maximum of 1000 requests per day. I'm not sure if I can get an image from the JSON via the API or not. Still, if it's possible, I can try getting multiple keys and rotating them every 1000 requests.
+
+Studying the API and its methods will take about 3-5 hours.
+
+These are approximate timeframes.
+
+
+links = ['https://www.mouser.com/c/semiconductors/', 'https://www.mouser.com/c/circuit-protection/',
+'https://www.mouser.com/c/connectors/', 'https://www.mouser.com/c/electromechanical/', 'https://www.mouser.com/c/embedded-solutions/',
+'https://www.mouser.com/c/optoelectronics/',
+'https://www.mouser.com/c/passive-components/', 'https://www.mouser.com/c/rf-wireless/', 'https://www.mouser.com/c/sensors/']
+
+that site i need to scrape
+https://www.mouser.com/electronic-components/
+and all goods from that categories and subcategories
+-Semiconductors          https://www.mouser.com/c/semiconductors/
+-Circuit Protection      https://www.mouser.com/c/circuit-protection/
+-Connectors              https://www.mouser.com/c/connectors/
+- Electromechanical      https://www.mouser.com/c/electromechanical/
+-Embedded Solutions      https://www.mouser.com/c/embedded-solutions/
+-Opto-electronics        https://www.mouser.com/c/optoelectronics/
+-Passive Components      https://www.mouser.com/c/passive-components/
+-RF & Wireless           https://www.mouser.com/c/rf-wireless/
+-Sensors                 https://www.mouser.com/c/sensors/

@@ -1,0 +1,417 @@
+{
+    "circuit protection": [
+        {
+            "Circuit Breakers & Accessories": "https://www.mouser.com/c/circuit-protection/circuit-breakers-accessories/"
+        },
+        {
+            "Circuit Protection Kits": "https://www.mouser.com/c/circuit-protection/circuit-protection-kits/"
+        },
+        {
+            "ESD Suppressors / TVS Diodes": "https://www.mouser.com/c/circuit-protection/esd-suppressors-tvs-diodes/"
+        },
+        {
+            "Fuse Holders": "https://www.mouser.com/c/circuit-protection/fuse-holders/"
+        },
+        {
+            "Fuses": "https://www.mouser.com/c/circuit-protection/fuses/"
+        },
+        {
+            "Gas Discharge Tubes - GDTs / Gas Plasma Arrestors": "https://www.mouser.com/c/circuit-protection/gas-discharge-tubes-gdts-gas-plasma-arrestors/"
+        },
+        {
+            "LED Protection Devices": "https://www.mouser.com/c/circuit-protection/led-protection-devices/"
+        },
+        {
+            "Power Outlet Strips": "https://www.mouser.com/c/circuit-protection/power-outlet-strips/"
+        },
+        {
+            "Resettable Fuses - PPTC": "https://www.mouser.com/c/circuit-protection/resettable-fuses-pptc/"
+        },
+        {
+            "Surge Protective Devices - SPD": "https://www.mouser.com/c/circuit-protection/surge-protective-devices-spd/"
+        },
+        {
+            "Thermal Cut-offs": "https://www.mouser.com/c/circuit-protection/thermal-cutoffs/"
+        },
+        {
+            "Thermistors": "https://www.mouser.com/c/circuit-protection/thermistors/"
+        },
+        {
+            "Thyristors": "https://www.mouser.com/c/circuit-protection/thyristors/"
+        },
+        {
+            "Varistors": "https://www.mouser.com/c/circuit-protection/varistors/"
+        }
+    ],
+    "connectors": [
+        {
+            "Audio & Video Connectors": "https://www.mouser.com/c/connectors/audio-video-connectors/"
+        },
+        {
+            "Automotive Connectors": "https://www.mouser.com/c/connectors/automotive-connectors/"
+        },
+        {
+            "Backplane Connectors": "https://www.mouser.com/c/connectors/backplane-connectors/"
+        },
+        {
+            "Board to Board & Mezzanine Connectors": "https://www.mouser.com/c/connectors/board-to-board-mezzanine-connectors/"
+        },
+        {
+            "Cable Assemblies": "https://www.mouser.com/c/connectors/cable-assemblies/"
+        },
+        {
+            "Card Edge Connectors": "https://www.mouser.com/c/connectors/card-edge-connectors/"
+        },
+        {
+            "Circular Connectors": "https://www.mouser.com/c/connectors/circular-connectors/"
+        },
+        {
+            "Data Bus Components": "https://www.mouser.com/c/connectors/data-bus-components/"
+        },
+        {
+            "D-Sub Connectors": "https://www.mouser.com/c/connectors/d-sub-connectors/"
+        },
+        {
+            "FFC / FPC": "https://www.mouser.com/c/connectors/ffc-fpc/"
+        },
+        {
+            "Fibre Optic Connectors": "https://www.mouser.com/c/connectors/fiber-optic-connectors/"
+        },
+        {
+            "Headers & Wire Housings": "https://www.mouser.com/c/connectors/headers-wire-housings/"
+        },
+        {
+            "I/O Connectors": "https://www.mouser.com/c/connectors/i-o-connectors/"
+        },
+        {
+            "IC & Component Sockets": "https://www.mouser.com/c/connectors/ic-component-sockets/"
+        },
+        {
+            "IEEE 1394 Connectors": "https://www.mouser.com/c/connectors/ieee-1394-connectors/"
+        },
+        {
+            "Junction Systems": "https://www.mouser.com/c/connectors/junction-systems/"
+        },
+        {
+            "Lighting Connectors": "https://www.mouser.com/c/connectors/lighting-connectors/"
+        },
+        {
+            "Memory Connectors": "https://www.mouser.com/c/connectors/memory-connectors/"
+        },
+        {
+            "MIL-Spec / MIL-Type": "https://www.mouser.com/c/connectors/mil-spec-mil-type/"
+        },
+        {
+            "Modular Connectors / Ethernet Connectors": "https://www.mouser.com/c/connectors/modular-connectors-ethernet-connectors/"
+        },
+        {
+            "Pin & Socket Connectors": "https://www.mouser.com/c/connectors/pin-socket-connectors/"
+        },
+        {
+            "Power Connectors": "https://www.mouser.com/c/connectors/power-connectors/"
+        },
+        {
+            "RF Interconnects": "https://www.mouser.com/c/connectors/rf-interconnects/"
+        },
+        {
+            "Solar Connectors / Photovoltaic Connectors": "https://www.mouser.com/c/connectors/solar-connectors-photovoltaic-connectors/"
+        },
+        {
+            "Terminal Blocks": "https://www.mouser.com/c/connectors/terminal-blocks/"
+        },
+        {
+            "Terminals": "https://www.mouser.com/c/connectors/terminals/"
+        },
+        {
+            "Unspecified Connectors": "https://www.mouser.com/c/connectors/unspecified-connectors/"
+        },
+        {
+            "USB Connectors": "https://www.mouser.com/c/connectors/usb-connectors/"
+        },
+        {
+            "Wire & Cable": "https://www.mouser.com/c/connectors/wire-cable/"
+        }
+    ],
+    "electromechanical": [
+        {
+            "Audio Devices": "https://www.mouser.com/c/electromechanical/audio-devices/"
+        },
+        {
+            "Circuit Breakers": "https://www.mouser.com/c/electromechanical/circuit-breakers/"
+        },
+        {
+            "Encoders": "https://www.mouser.com/c/electromechanical/encoders/"
+        },
+        {
+            "Hardware": "https://www.mouser.com/c/electromechanical/hardware/"
+        },
+        {
+            "I/O Modules": "https://www.mouser.com/c/electromechanical/i-o-modules/"
+        },
+        {
+            "Industrial Automation": "https://www.mouser.com/c/electromechanical/industrial-automation/"
+        },
+        {
+            "Knobs & Dials": "https://www.mouser.com/c/electromechanical/knobs-dials/"
+        },
+        {
+            "Motors & Drives": "https://www.mouser.com/c/electromechanical/motors-drives/"
+        },
+        {
+            "Printers": "https://www.mouser.com/c/electromechanical/printers/"
+        },
+        {
+            "Relays, Contactors & Solenoids": "https://www.mouser.com/c/electromechanical/relays-contactors-solenoids/"
+        },
+        {
+            "Switches": "https://www.mouser.com/c/electromechanical/switches/"
+        }
+    ],
+    "embedded solutions": [
+        {
+            "Accelerator Cards": "https://www.mouser.com/c/embedded-solutions/accelerator-cards/"
+        },
+        {
+            "Audio Modules": "https://www.mouser.com/c/embedded-solutions/audio-modules/"
+        },
+        {
+            "Computing": "https://www.mouser.com/c/embedded-solutions/computing/"
+        },
+        {
+            "Data Conversion Modules": "https://www.mouser.com/c/embedded-solutions/data-conversion-modules/"
+        },
+        {
+            "Display Modules": "https://www.mouser.com/c/embedded-solutions/display-modules/"
+        },
+        {
+            "Energy Harvesting Modules": "https://www.mouser.com/c/embedded-solutions/energy-harvesting-modules/"
+        },
+        {
+            "Engineering Tools": "https://www.mouser.com/c/embedded-solutions/engineering-tools/"
+        },
+        {
+            "Ethernet & Communication Modules": "https://www.mouser.com/c/embedded-solutions/ethernet-communication-modules/"
+        },
+        {
+            "Interface Modules": "https://www.mouser.com/c/embedded-solutions/interface-modules/"
+        },
+        {
+            "Memory & Data Storage": "https://www.mouser.com/c/embedded-solutions/memory-data-storage/"
+        },
+        {
+            "Modules Accessories": "https://www.mouser.com/c/embedded-solutions/modules-accessories/"
+        },
+        {
+            "Other Modules": "https://www.mouser.com/c/embedded-solutions/other-modules/"
+        },
+        {
+            "Power Management Modules": "https://www.mouser.com/c/embedded-solutions/power-management-modules/"
+        },
+        {
+            "Sensor Modules": "https://www.mouser.com/c/embedded-solutions/sensor-modules/"
+        },
+        {
+            "Software": "https://www.mouser.com/c/embedded-solutions/software/"
+        },
+        {
+            "Video Modules": "https://www.mouser.com/c/embedded-solutions/video-modules/"
+        },
+        {
+            "Wireless & RF Modules": "https://www.mouser.com/c/embedded-solutions/wireless-rf-modules/"
+        }
+    ],
+    "opto-electronics": [
+        {
+            "Backlighting Components": "https://www.mouser.com/c/optoelectronics/backlighting-components/"
+        },
+        {
+            "Cameras & Accessories": "https://www.mouser.com/c/optoelectronics/cameras-accessories/"
+        },
+        {
+            "Displays": "https://www.mouser.com/c/optoelectronics/displays/"
+        },
+        {
+            "Drivers": "https://www.mouser.com/c/optoelectronics/drivers/"
+        },
+        {
+            "Fibre Optics": "https://www.mouser.com/c/optoelectronics/fiber-optics/"
+        },
+        {
+            "Infrared Data Communications": "https://www.mouser.com/c/optoelectronics/infrared-data-communications/"
+        },
+        {
+            "Lamps & Holders": "https://www.mouser.com/c/optoelectronics/lamps-holders/"
+        },
+        {
+            "Lasers": "https://www.mouser.com/c/optoelectronics/lasers/"
+        },
+        {
+            "LED Emitters": "https://www.mouser.com/c/optoelectronics/led-emitters/"
+        },
+        {
+            "LED Indication": "https://www.mouser.com/c/optoelectronics/led-indication/"
+        },
+        {
+            "LED Lighting": "https://www.mouser.com/c/optoelectronics/led-lighting/"
+        },
+        {
+            "Optical Detectors & Sensors": "https://www.mouser.com/c/optoelectronics/optical-detectors-sensors/"
+        },
+        {
+            "Optical Switches": "https://www.mouser.com/c/optoelectronics/optical-switches/"
+        },
+        {
+            "Optocouplers/Photocouplers": "https://www.mouser.com/c/optoelectronics/optocouplers-photocouplers/"
+        }
+    ],
+    "passive components": [
+        {
+            "Antenna Accessories": "https://www.mouser.com/c/passive-components/antenna-accessories/"
+        },
+        {
+            "Antennas": "https://www.mouser.com/c/passive-components/antennas/"
+        },
+        {
+            "Audio Transformers / Signal Transformers": "https://www.mouser.com/c/passive-components/audio-transformers-signal-transformers/"
+        },
+        {
+            "Capacitors": "https://www.mouser.com/c/passive-components/capacitors/"
+        },
+        {
+            "EMI Filters / EMI Suppression": "https://www.mouser.com/c/passive-components/emi-filters-emi-suppression/"
+        },
+        {
+            "Encoders": "https://www.mouser.com/c/passive-components/encoders/"
+        },
+        {
+            "Ferrites": "https://www.mouser.com/c/passive-components/ferrites/"
+        },
+        {
+            "Filters": "https://www.mouser.com/c/passive-components/filters/"
+        },
+        {
+            "Frequency Control & Timing Devices": "https://www.mouser.com/c/passive-components/frequency-control-timing-devices/"
+        },
+        {
+            "Inductors, Chokes & Coils": "https://www.mouser.com/c/passive-components/inductors-chokes-coils/"
+        },
+        {
+            "Potentiometers, Trimmers & Rheostats": "https://www.mouser.com/c/passive-components/potentiometers-trimmers-rheostats/"
+        },
+        {
+            "Resistors": "https://www.mouser.com/c/passive-components/resistors/"
+        },
+        {
+            "Signal Conditioning": "https://www.mouser.com/c/passive-components/signal-conditioning/"
+        },
+        {
+            "Thermistors - NTC": "https://www.mouser.com/c/passive-components/thermistors-ntc/"
+        },
+        {
+            "Thermistors - PTC": "https://www.mouser.com/c/passive-components/thermistors-ptc/"
+        },
+        {
+            "Varistors": "https://www.mouser.com/c/passive-components/varistors/"
+        }
+    ],
+    "rf & wireless": [
+        {
+            "Antennas & Accessories": "https://www.mouser.com/c/rf-wireless/antennas-accessories/"
+        },
+        {
+            "Ethernet & Communication Modules": "https://www.mouser.com/c/rf-wireless/ethernet-communication-modules/"
+        },
+        {
+            "NFC/RFID Solutions": "https://www.mouser.com/c/rf-wireless/nfc-rfid-solutions/"
+        },
+        {
+            "RF / Wireless Development Tools": "https://www.mouser.com/c/rf-wireless/rf-wireless-development-tools/"
+        },
+        {
+            "RF Cables & Connectors": "https://www.mouser.com/c/rf-wireless/rf-cables-connectors/"
+        },
+        {
+            "RF Capacitors": "https://www.mouser.com/c/rf-wireless/rf-capacitors/"
+        },
+        {
+            "RF Inductors": "https://www.mouser.com/c/rf-wireless/rf-inductors/"
+        },
+        {
+            "RF Integrated Circuits": "https://www.mouser.com/c/rf-wireless/rf-integrated-circuits/"
+        },
+        {
+            "RF Relays": "https://www.mouser.com/c/rf-wireless/rf-relays/"
+        },
+        {
+            "RF Resistors": "https://www.mouser.com/c/rf-wireless/rf-resistors/"
+        },
+        {
+            "RF Test Equipment": "https://www.mouser.com/c/rf-wireless/rf-test-equipment/"
+        },
+        {
+            "RF Transistors": "https://www.mouser.com/c/rf-wireless/rf-transistors/"
+        },
+        {
+            "Wireless Charging": "https://www.mouser.com/c/rf-wireless/wireless-charging/"
+        },
+        {
+            "Wireless Modules": "https://www.mouser.com/c/rf-wireless/wireless-modules/"
+        }
+    ],
+    "sensors": [
+        {
+            "Audio Sensors": "https://www.mouser.com/c/sensors/audio-sensors/"
+        },
+        {
+            "Biometric Sensors": "https://www.mouser.com/c/sensors/biometric-sensors/"
+        },
+        {
+            "Capacitive Touch Sensors": "https://www.mouser.com/c/sensors/capacitive-touch-sensors/"
+        },
+        {
+            "Current Sensors": "https://www.mouser.com/c/sensors/current-sensors/"
+        },
+        {
+            "Encoders": "https://www.mouser.com/c/sensors/encoders/"
+        },
+        {
+            "Environmental Sensors": "https://www.mouser.com/c/sensors/environmental-sensors/"
+        },
+        {
+            "Flow Sensors": "https://www.mouser.com/c/sensors/flow-sensors/"
+        },
+        {
+            "Force Sensors & Load Cells": "https://www.mouser.com/c/sensors/force-sensors-load-cells/"
+        },
+        {
+            "Linear Displacement Sensors": "https://www.mouser.com/c/sensors/linear-displacement-sensors/"
+        },
+        {
+            "Liquid Level Sensors": "https://www.mouser.com/c/sensors/liquid-level-sensors/"
+        },
+        {
+            "Magnetic Sensors": "https://www.mouser.com/c/sensors/magnetic-sensors/"
+        },
+        {
+            "Motion & Position Sensors": "https://www.mouser.com/c/sensors/motion-position-sensors/"
+        },
+        {
+            "Optical Sensors": "https://www.mouser.com/c/sensors/optical-sensors/"
+        },
+        {
+            "Pressure Sensors": "https://www.mouser.com/c/sensors/pressure-sensors/"
+        },
+        {
+            "Proximity Sensors": "https://www.mouser.com/c/sensors/proximity-sensors/"
+        },
+        {
+            "Sensor Development Tools": "https://www.mouser.com/c/sensors/sensor-development-tools/"
+        },
+        {
+            "Sensor Fixings & Accessories": "https://www.mouser.com/c/sensors/sensor-hardware-accessories/"
+        },
+        {
+            "Temperature Sensors": "https://www.mouser.com/c/sensors/temperature-sensors/"
+        }
+    ]
+}

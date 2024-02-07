@@ -1,0 +1,193 @@
+{
+    "semiconductors": {
+        "sub_category": {
+            "Discrete Semiconductors": [
+                {
+                    "Diodes & Rectifiers": "https://www.mouser.com/c/semiconductors/discrete-semiconductors/diodes-rectifiers/"
+                },
+                {
+                    "Discrete Semiconductor Modules": "https://www.mouser.com/c/semiconductors/discrete-semiconductors/discrete-semiconductor-modules/"
+                },
+                {
+                    "Thyristors": "https://www.mouser.com/c/semiconductors/discrete-semiconductors/thyristors/"
+                },
+                {
+                    "Transistors": "https://www.mouser.com/c/semiconductors/discrete-semiconductors/transistors/"
+                }
+            ],
+            "Embedded Processors & Controllers": [
+                {
+                    "CPLD - Complex Programmable Logic Devices": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/cpld-complex-programmable-logic-devices/"
+                },
+                {
+                    "CPU - Central Processing Units": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/cpu-central-processing-units/"
+                },
+                {
+                    "Digital Signal Processors & Controllers - DSP, DSC": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/digital-signal-processors-controllers-dsp-dsc/"
+                },
+                {
+                    "EEPLD - Electronically Erasable Programmable Logic Devices": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/eepld-electronically-erasable-programmable-logic-devices/"
+                },
+                {
+                    "FPGA - Configuration Memory": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/fpga-configuration-memory/"
+                },
+                {
+                    "FPGA - Field Programmable Gate Array": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/fpga-field-programmable-gate-array/"
+                },
+                {
+                    "Microcontrollers - MCU": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/microcontrollers-mcu/"
+                },
+                {
+                    "Microprocessors - MPU": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/microprocessors-mpu/"
+                },
+                {
+                    "Processors - Application Specialised": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/processors-application-specialized/"
+                },
+                {
+                    "RF System on a Chip - SoC": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/rf-system-on-a-chip-soc/"
+                },
+                {
+                    "SPLD - Simple Programmable Logic Devices": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/spld-simple-programmable-logic-devices/"
+                },
+                {
+                    "Systems on a Chip - SoC": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/systems-on-a-chip-soc/"
+                }
+            ],
+            "Integrated Circuits - ICs": [
+                {
+                    "Active Filter": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/active-filter/"
+                },
+                {
+                    "Amplifier ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/amplifier-ics/"
+                },
+                {
+                    "Audio ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/audio-ics/"
+                },
+                {
+                    "Chipsets": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/chipsets/"
+                },
+                {
+                    "Clock & Timer ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/clock-timer-ics/"
+                },
+                {
+                    "Communication & Networking ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/communication-networking-ics/"
+                },
+                {
+                    "Counter ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/counter-ics/"
+                },
+                {
+                    "Data Converter ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/data-converter-ics/"
+                },
+                {
+                    "Digital Potentiometer ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/digital-potentiometer-ics/"
+                },
+                {
+                    "Driver ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/driver-ics/"
+                },
+                {
+                    "Embedded Processors & Controllers": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/"
+                },
+                {
+                    "Equalisers": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/equalizers/"
+                },
+                {
+                    "Interface ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/interface-ics/"
+                },
+                {
+                    "Logic ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/logic-ics/"
+                },
+                {
+                    "Memory ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/memory-ics/"
+                },
+                {
+                    "Multimedia ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/multimedia-ics/"
+                },
+                {
+                    "Optocouplers/Photocouplers": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/optocouplers-photocouplers/"
+                },
+                {
+                    "Power Management ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/power-management-ics/"
+                },
+                {
+                    "Programmable Logic ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/programmable-logic-ics/"
+                },
+                {
+                    "Security ICs / Authentication ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/security-ics-authentication-ics/"
+                },
+                {
+                    "Switch ICs": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/switch-ics/"
+                },
+                {
+                    "Wireless & RF Integrated Circuits": "https://www.mouser.com/c/semiconductors/integrated-circuits-ics/wireless-rf-integrated-circuits/"
+                }
+            ],
+            "Memory ICs": [
+                {
+                    "DRAM": "https://www.mouser.com/c/semiconductors/memory-ics/dram/"
+                },
+                {
+                    "EEPROM": "https://www.mouser.com/c/semiconductors/memory-ics/eeprom/"
+                },
+                {
+                    "eMMC": "https://www.mouser.com/c/semiconductors/memory-ics/emmc/"
+                },
+                {
+                    "EPROM": "https://www.mouser.com/c/semiconductors/memory-ics/eprom/"
+                },
+                {
+                    "FIFO": "https://www.mouser.com/c/semiconductors/memory-ics/fifo/"
+                },
+                {
+                    "F-RAM": "https://www.mouser.com/c/semiconductors/memory-ics/f-ram/"
+                },
+                {
+                    "Managed NAND": "https://www.mouser.com/c/semiconductors/memory-ics/managed-nand/"
+                },
+                {
+                    "Memory Controllers": "https://www.mouser.com/c/semiconductors/memory-ics/memory-controllers/"
+                },
+                {
+                    "Memory IC Development Tools": "https://www.mouser.com/c/semiconductors/memory-ics/memory-ic-development-tools/"
+                },
+                {
+                    "Memory Modules & Memory Cards": "https://www.mouser.com/c/semiconductors/memory-ics/memory-modules-memory-cards/"
+                },
+                {
+                    "MRAM": "https://www.mouser.com/c/semiconductors/memory-ics/mram/"
+                },
+                {
+                    "Multichip Packages": "https://www.mouser.com/c/semiconductors/memory-ics/multichip-packages/"
+                },
+                {
+                    "NAND Flash": "https://www.mouser.com/c/semiconductors/memory-ics/nand-flash/"
+                },
+                {
+                    "NOR Flash": "https://www.mouser.com/c/semiconductors/memory-ics/nor-flash/"
+                },
+                {
+                    "NVRAM": "https://www.mouser.com/c/semiconductors/memory-ics/nvram/"
+                },
+                {
+                    "SRAM": "https://www.mouser.com/c/semiconductors/memory-ics/sram/"
+                },
+                {
+                    "Storage": "https://www.mouser.com/c/semiconductors/memory-ics/storage/"
+                },
+                {
+                    "Universal Flash Storage - UFS": "https://www.mouser.com/c/semiconductors/memory-ics/universal-flash-storage-ufs/"
+                }
+            ],
+            "Wireless & RF Semiconductors": [
+                {
+                    "PIN Diodes": "https://www.mouser.com/c/semiconductors/wireless-rf-semiconductors/pin-diodes/"
+                },
+                {
+                    "Transistors RF": "https://www.mouser.com/c/semiconductors/wireless-rf-semiconductors/transistors-rf/"
+                },
+                {
+                    "Wireless & RF Integrated Circuits": "https://www.mouser.com/c/semiconductors/wireless-rf-semiconductors/wireless-rf-integrated-circuits/"
+                }
+            ]
+        }
+    }
+}
