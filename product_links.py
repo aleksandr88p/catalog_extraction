@@ -29,8 +29,8 @@ headers = {
 #     f.write(response.text)
 
 
-with open('diodes-rectifiers.html', 'r') as f:
-    html_code = f.read()
+# with open('diodes-rectifiers.html', 'r') as f:
+#     html_code = f.read()
 
 
 # def get_product_links(link):
