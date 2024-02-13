@@ -89,3 +89,9 @@ def find_links_to_product(page):
 
 # page = 'barrel-audio-cables.html'
 # find_links_to_product(page=page)
+
+
+
+all_links_to_categories_digikey = {
+    ""
+}
