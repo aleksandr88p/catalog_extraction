@@ -1,0 +1,1714 @@
+{
+    "Audio Products": {
+        "subCategories": {
+            "Alarms, Buzzers, and Sirens": {
+                "url": "https://www.digikey.es/en/products/filter/alarms-buzzers-and-sirens/157",
+                "subSubCategories": {}
+            },
+            "Buzzer Elements, Piezo Benders": {
+                "url": "https://www.digikey.es/en/products/filter/buzzer-elements-piezo-benders/160",
+                "subSubCategories": {}
+            },
+            "Microphones": {
+                "url": "https://www.digikey.es/en/products/filter/microphones/158",
+                "subSubCategories": {}
+            },
+            "Speakers": {
+                "url": "https://www.digikey.es/en/products/filter/speakers/156",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Capacitors": {
+        "subCategories": {
+            "Aluminum - Polymer Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/aluminum-polymer-capacitors/69",
+                "subSubCategories": {}
+            },
+            "Aluminum Electrolytic Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/aluminum-electrolytic-capacitors/58",
+                "subSubCategories": {}
+            },
+            "Capacitor Networks, Arrays": {
+                "url": "https://www.digikey.es/en/products/filter/capacitor-networks-arrays/57",
+                "subSubCategories": {}
+            },
+            "Ceramic Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/ceramic-capacitors/60",
+                "subSubCategories": {}
+            },
+            "Electric Double Layer Capacitors (EDLC), Supercapacitors": {
+                "url": "https://www.digikey.es/en/products/filter/electric-double-layer-capacitors-edlc-supercapacitors/61",
+                "subSubCategories": {}
+            },
+            "Film Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/film-capacitors/62",
+                "subSubCategories": {}
+            },
+            "Mica and PTFE Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/mica-and-ptfe-capacitors/64",
+                "subSubCategories": {}
+            },
+            "Niobium Oxide Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/niobium-oxide-capacitors/67",
+                "subSubCategories": {}
+            },
+            "Silicon Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/silicon-capacitors/68",
+                "subSubCategories": {}
+            },
+            "Tantalum - Polymer Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/tantalum-polymer-capacitors/70",
+                "subSubCategories": {}
+            },
+            "Tantalum Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/tantalum-capacitors/59",
+                "subSubCategories": {}
+            },
+            "Thin Film Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/thin-film-capacitors/66",
+                "subSubCategories": {}
+            },
+            "Trimmers, Variable Capacitors": {
+                "url": "https://www.digikey.es/en/products/filter/trimmers-variable-capacitors/65",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Circuit Protection": {
+        "subCategories": {
+            "Circuit Breakers": {
+                "url": "https://www.digikey.es/en/products/filter/circuit-breakers/143",
+                "subSubCategories": {}
+            },
+            "Circuit Protection Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/circuit-protection-accessories/145",
+                "subSubCategories": {}
+            },
+            "Electrical, Specialty Fuses": {
+                "url": "https://www.digikey.es/en/products/filter/electrical-specialty-fuses/155",
+                "subSubCategories": {}
+            },
+            "Fuseholders": {
+                "url": "https://www.digikey.es/en/products/filter/fuseholders/140",
+                "subSubCategories": {}
+            },
+            "Fuses": {
+                "url": "https://www.digikey.es/en/products/filter/fuses/139",
+                "subSubCategories": {}
+            },
+            "Gas Discharge Tube Arresters (GDT)": {
+                "url": "https://www.digikey.es/en/products/filter/gas-discharge-tube-arresters-gdt/142",
+                "subSubCategories": {}
+            },
+            "Inrush Current Limiters (ICL)": {
+                "url": "https://www.digikey.es/en/products/filter/inrush-current-limiters-icl/151",
+                "subSubCategories": {}
+            },
+            "Lighting Protection": {
+                "url": "https://www.digikey.es/en/products/filter/lighting-protection/154",
+                "subSubCategories": {}
+            },
+            "PTC Resettable Fuses": {
+                "url": "https://www.digikey.es/en/products/filter/ptc-resettable-fuses/150",
+                "subSubCategories": {}
+            },
+            "Surge Suppression Ics": {
+                "url": "https://www.digikey.es/en/products/filter/surge-suppression-ics/152",
+                "subSubCategories": {}
+            },
+            "Thermal Cutoffs (Thermal Fuses)": {
+                "url": "https://www.digikey.es/en/products/filter/thermal-cutoffs-thermal-fuses/146",
+                "subSubCategories": {}
+            },
+            "Mixed Technology": {
+                "url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/mixed-technology/149",
+                "subSubCategories": {}
+            },
+            "Surge Protection Devices (SPDs)": {
+                "url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/surge-protection-devices-spds/992",
+                "subSubCategories": {}
+            },
+            "Thyristors": {
+                "url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/thyristors/147",
+                "subSubCategories": {}
+            },
+            "TVS Diodes": {
+                "url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/tvs-diodes/144",
+                "subSubCategories": {}
+            },
+            "Varistors, MOVs": {
+                "url": "https://www.digikey.es/en/products/filter/varistors-movs/141",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Connectors, Interconnects": {
+        "subCategories": {
+            "Plugs and Receptacles": {
+                "url": "https://www.digikey.es/en/products/filter/ac-power-connectors/plugs-and-receptacles/1170",
+                "subSubCategories": {}
+            },
+            "Power Entry Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/ac-power-connectors/power-entry-connector-accessories/341",
+                "subSubCategories": {}
+            },
+            "Power Entry Modules (PEM)": {
+                "url": "https://www.digikey.es/en/products/filter/ac-power-connectors/power-entry-modules-pem/301",
+                "subSubCategories": {}
+            },
+            "ARINC": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/arinc/386",
+                "subSubCategories": {}
+            },
+            "ARINC Inserts": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/arinc-inserts/430",
+                "subSubCategories": {}
+            },
+            "Backplane Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-accessories/343",
+                "subSubCategories": {}
+            },
+            "Backplane Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-contacts/335",
+                "subSubCategories": {}
+            },
+            "Backplane Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-housings/372",
+                "subSubCategories": {}
+            },
+            "DIN 41612": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/din-41612/307",
+                "subSubCategories": {}
+            },
+            "Hard Metric, Standard": {
+                "url": "https://www.digikey.es/en/products/filter/backplane-connectors/hard-metric-standard/406",
+                "subSubCategories": {}
+            },
+            "Specialized": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/specialized/433",
+                "subSubCategories": {}
+            },
+            "Banana and Tip Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/banana-and-tip-connector-accessories/351",
+                "subSubCategories": {}
+            },
+            "Banana and Tip Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/banana-and-tip-connector-adapters/381",
+                "subSubCategories": {}
+            },
+            "Binding Posts": {
+                "url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/binding-posts/310",
+                "subSubCategories": {}
+            },
+            "Jacks, Plugs": {
+                "url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/jacks-plugs/302",
+                "subSubCategories": {}
+            },
+            "Audio Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/barrel-connectors/audio-connectors/434",
+                "subSubCategories": {}
+            },
+            "Barrel Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/barrel-connectors/barrel-connector-accessories/348",
+                "subSubCategories": {}
+            },
+            "Barrel Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/barrel-connectors/barrel-connector-adapters/376",
+                "subSubCategories": {}
+            },
+            "Power Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/barrel-connectors/power-connectors/435",
+                "subSubCategories": {}
+            },
+            "Between Series Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/between-series-adapters/373",
+                "subSubCategories": {}
+            },
+            "Blade Type Power Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-accessories/360",
+                "subSubCategories": {}
+            },
+            "Blade Type Power Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-assemblies/357",
+                "subSubCategories": {}
+            },
+            "Blade Type Power Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-contacts/420",
+                "subSubCategories": {}
+            },
+            "Blade Type Power Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-housings/419",
+                "subSubCategories": {}
+            },
+            "Card Edge Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-accessories/349",
+                "subSubCategories": {}
+            },
+            "Card Edge Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-adapters/429",
+                "subSubCategories": {}
+            },
+            "Card Edge Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-contacts/345",
+                "subSubCategories": {}
+            },
+            "Card Edge Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-housings/354",
+                "subSubCategories": {}
+            },
+            "Edgeboard Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/card-edge-connectors/edgeboard-connectors/303",
+                "subSubCategories": {}
+            },
+            "Backshells and Cable Clamps": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/backshells-and-cable-clamps/313",
+                "subSubCategories": {}
+            },
+            "Circular Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-accessories/329",
+                "subSubCategories": {}
+            },
+            "Circular Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-adapters/378",
+                "subSubCategories": {}
+            },
+            "Circular Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-assemblies/436",
+                "subSubCategories": {}
+            },
+            "Circular Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-contacts/330",
+                "subSubCategories": {}
+            },
+            "Circular Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-housings/320",
+                "subSubCategories": {}
+            },
+            "Coaxial Connector (RF) Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-accessories/342",
+                "subSubCategories": {}
+            },
+            "Coaxial Connector (RF) Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-adapters/374",
+                "subSubCategories": {}
+            },
+            "Coaxial Connector (RF) Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-assemblies/437",
+                "subSubCategories": {}
+            },
+            "Coaxial Connector (RF) Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-contacts/388",
+                "subSubCategories": {}
+            },
+            "Coaxial Connector (RF) Terminators": {
+                "url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-terminators/382",
+                "subSubCategories": {}
+            },
+            "Contacts, Spring Loaded (Pogo Pins), and Pressure": {
+                "url": "https://www.digikey.es/en/products/filter/contacts/contacts-spring-loaded-pogo-pins-and-pressure/311",
+                "subSubCategories": {}
+            },
+            "Leadframe": {
+                "url": "https://www.digikey.es/en/products/filter/contacts/leadframe/416",
+                "subSubCategories": {}
+            },
+            "Multi Purpose": {
+                "url": "https://www.digikey.es/en/products/filter/contacts/multi-purpose/336",
+                "subSubCategories": {}
+            },
+            "Centronics Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/centronics-connectors/438",
+                "subSubCategories": {}
+            },
+            "D-Sub Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-connector-assemblies/439",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-accessories/339",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-adapters/375",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Backshells, Hoods": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-backshells-hoods/355",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-contacts/332",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-housings/321",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Jackscrews": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-jackscrews/447",
+                "subSubCategories": {}
+            },
+            "D-Sub, D-Shaped Connector Terminators": {
+                "url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-terminators/383",
+                "subSubCategories": {}
+            },
+            "FFC, FPC (Flat Flexible) Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-accessories/350",
+                "subSubCategories": {}
+            },
+            "FFC, FPC (Flat Flexible) Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-assemblies/399",
+                "subSubCategories": {}
+            },
+            "FFC, FPC (Flat Flexible) Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-contacts/344",
+                "subSubCategories": {}
+            },
+            "FFC, FPC (Flat Flexible) Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-housings/390",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-accessories/389",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-adapters/387",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-assemblies/440",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-housings/445",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-accessories/358",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-assemblies/327",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-contacts/337",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Frames": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-frames/362",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Housings, Hoods, Bases": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-housings-hoods-bases/363",
+                "subSubCategories": {}
+            },
+            "Heavy Duty Connector Inserts, Modules": {
+                "url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-inserts-modules/361",
+                "subSubCategories": {}
+            },
+            "Keystone Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-connector-accessories/426",
+                "subSubCategories": {}
+            },
+            "Keystone Faceplates, Frames": {
+                "url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-faceplates-frames/427",
+                "subSubCategories": {}
+            },
+            "Keystone Inserts": {
+                "url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-inserts/428",
+                "subSubCategories": {}
+            },
+            "LGH Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/lgh-connectors/441",
+                "subSubCategories": {}
+            },
+            "Inline Module Sockets": {
+                "url": "https://www.digikey.es/en/products/filter/memory-connectors/inline-module-sockets/413",
+                "subSubCategories": {}
+            },
+            "Memory Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/memory-connectors/memory-connector-accessories/352",
+                "subSubCategories": {}
+            },
+            "PC Card Sockets": {
+                "url": "https://www.digikey.es/en/products/filter/memory-connectors/pc-card-sockets/414",
+                "subSubCategories": {}
+            },
+            "PC Cards - Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/memory-connectors/pc-cards-adapters/421",
+                "subSubCategories": {}
+            },
+            "Modular Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-accessories/442",
+                "subSubCategories": {}
+            },
+            "Modular Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-adapters/379",
+                "subSubCategories": {}
+            },
+            "Modular Connector Jacks": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-jacks/366",
+                "subSubCategories": {}
+            },
+            "Modular Connector Jacks With Magnetics": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-jacks-with-magnetics/365",
+                "subSubCategories": {}
+            },
+            "Modular Connector Plug Housings": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-plug-housings/403",
+                "subSubCategories": {}
+            },
+            "Modular Connector Plugs": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-plugs/367",
+                "subSubCategories": {}
+            },
+            "Modular Connector Wiring Blocks": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-wiring-blocks/418",
+                "subSubCategories": {}
+            },
+            "Modular Connector Wiring Blocks Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-wiring-blocks-accessories/417",
+                "subSubCategories": {}
+            },
+            "Photovoltaic (Solar Panel) Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-accessories/424",
+                "subSubCategories": {}
+            },
+            "Photovoltaic (Solar Panel) Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-assemblies/326",
+                "subSubCategories": {}
+            },
+            "Photovoltaic (Solar Panel) Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-contacts/423",
+                "subSubCategories": {}
+            },
+            "Pluggable Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/pluggable-connectors/pluggable-connector-accessories/346",
+                "subSubCategories": {}
+            },
+            "Pluggable Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/pluggable-connectors/pluggable-connector-assemblies/443",
+                "subSubCategories": {}
+            },
+            "Arrays, Edge Type, Mezzanine (Board to Board)": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308",
+                "subSubCategories": {}
+            },
+            "Board In, Direct Wire to Board": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/board-in-direct-wire-to-board/317",
+                "subSubCategories": {}
+            },
+            "Board Spacers, Stackers (Board to Board)": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/board-spacers-stackers-board-to-board/400",
+                "subSubCategories": {}
+            },
+            "Free Hanging, Panel Mount": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/free-hanging-panel-mount/316",
+                "subSubCategories": {}
+            },
+            "Headers, Male Pins": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-male-pins/314",
+                "subSubCategories": {}
+            },
+            "Headers, Receptacles, Female Sockets": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-receptacles-female-sockets/315",
+                "subSubCategories": {}
+            },
+            "Headers, Specialty Pin": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-specialty-pin/318",
+                "subSubCategories": {}
+            },
+            "Rectangular Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-accessories/340",
+                "subSubCategories": {}
+            },
+            "Rectangular Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-adapters/380",
+                "subSubCategories": {}
+            },
+            "Rectangular Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-contacts/331",
+                "subSubCategories": {}
+            },
+            "Rectangular Connector Housings": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-housings/319",
+                "subSubCategories": {}
+            },
+            "Spring Loaded": {
+                "url": "https://www.digikey.es/en/products/filter/rectangular-connectors/spring-loaded/408",
+                "subSubCategories": {}
+            },
+            "Shunts, Jumpers": {
+                "url": "https://www.digikey.es/en/products/filter/shunts-jumpers/304",
+                "subSubCategories": {}
+            },
+            "IC Sockets": {
+                "url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/ic-sockets/409",
+                "subSubCategories": {}
+            },
+            "Socket Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/socket-accessories/410",
+                "subSubCategories": {}
+            },
+            "Socket Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/socket-adapters/411",
+                "subSubCategories": {}
+            },
+            "Solid State Lighting Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-accessories/432",
+                "subSubCategories": {}
+            },
+            "Solid State Lighting Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-assemblies/444",
+                "subSubCategories": {}
+            },
+            "Solid State Lighting Connector Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-contacts/446",
+                "subSubCategories": {}
+            },
+            "Barrier Blocks": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/barrier-blocks/368",
+                "subSubCategories": {}
+            },
+            "Din Rail, Channel": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/din-rail-channel/369",
+                "subSubCategories": {}
+            },
+            "Headers, Plugs and Sockets": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/headers-plugs-and-sockets/370",
+                "subSubCategories": {}
+            },
+            "Interface Modules": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/interface-modules/431",
+                "subSubCategories": {}
+            },
+            "Panel Mount": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/panel-mount/425",
+                "subSubCategories": {}
+            },
+            "Power Distribution": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/power-distribution/412",
+                "subSubCategories": {}
+            },
+            "Terminal Block Accessories": {
+                "url": "https://www.digikey.es/en/products/category/terminal-blocks/terminal-block-accessories/2033",
+                "subSubCategories": {}
+            },
+            "Terminal Block Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/terminal-block-adapters/322",
+                "subSubCategories": {}
+            },
+            "Terminal Block Contacts": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/terminal-block-contacts/338",
+                "subSubCategories": {}
+            },
+            "Wire to Board": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-blocks/wire-to-board/371",
+                "subSubCategories": {}
+            },
+            "Terminal Junction Systems": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-junction-systems/422",
+                "subSubCategories": {}
+            },
+            "Terminal Strips and Turret Boards": {
+                "url": "https://www.digikey.es/en/products/filter/terminal-strips-and-turret-boards/306",
+                "subSubCategories": {}
+            },
+            "Barrel, Bullet Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/barrel-bullet-connectors/393",
+                "subSubCategories": {}
+            },
+            "Foil Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/foil-connectors/402",
+                "subSubCategories": {}
+            },
+            "Housings, Boots": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/housings-boots/325",
+                "subSubCategories": {}
+            },
+            "Knife Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/knife-connectors/404",
+                "subSubCategories": {}
+            },
+            "Lugs": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/lugs/395",
+                "subSubCategories": {}
+            },
+            "Magnetic Wire Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/magnetic-wire-connectors/353",
+                "subSubCategories": {}
+            },
+            "PC Pin Receptacles, Socket Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/pc-pin-receptacles-socket-connectors/324",
+                "subSubCategories": {}
+            },
+            "PC Pin, Single Post Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/pc-pin-single-post-connectors/323",
+                "subSubCategories": {}
+            },
+            "Quick Connects, Quick Disconnect Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/quick-connects-quick-disconnect-connectors/392",
+                "subSubCategories": {}
+            },
+            "Ring Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/ring-connectors/394",
+                "subSubCategories": {}
+            },
+            "Screw Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/screw-connectors/396",
+                "subSubCategories": {}
+            },
+            "Solder Lug Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/solder-lug-connectors/401",
+                "subSubCategories": {}
+            },
+            "Spade Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/spade-connectors/391",
+                "subSubCategories": {}
+            },
+            "Specialized Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/specialized-connectors/356",
+                "subSubCategories": {}
+            },
+            "Terminal Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/terminal-accessories/415",
+                "subSubCategories": {}
+            },
+            "Terminal Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/terminal-adapters/405",
+                "subSubCategories": {}
+            },
+            "Turret Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/turret-connectors/328",
+                "subSubCategories": {}
+            },
+            "Wire Pin Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/wire-pin-connectors/397",
+                "subSubCategories": {}
+            },
+            "Wire Splice Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/wire-splice-connectors/305",
+                "subSubCategories": {}
+            },
+            "Wire to Board Connectors": {
+                "url": "https://www.digikey.es/en/products/filter/terminals/wire-to-board-connectors/398",
+                "subSubCategories": {}
+            },
+            "USB, DVI, HDMI Connector Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-accessories/347",
+                "subSubCategories": {}
+            },
+            "USB, DVI, HDMI Connector Adapters": {
+                "url": "https://www.digikey.es/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-adapters/377",
+                "subSubCategories": {}
+            },
+            "USB, DVI, HDMI Connector Assemblies": {
+                "url": "https://www.digikey.es/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-assemblies/312",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Crystals, Oscillators, Resonators": {
+        "subCategories": {
+            "Crystals": {
+                "url": "https://www.digikey.es/en/products/filter/crystals/171",
+                "subSubCategories": {}
+            },
+            "Oscillators": {
+                "url": "https://www.digikey.es/en/products/filter/oscillators/172",
+                "subSubCategories": {}
+            },
+            "Pin Configurable/Selectable Oscillators": {
+                "url": "https://www.digikey.es/en/products/filter/pin-configurable-selectable-oscillators/176",
+                "subSubCategories": {}
+            },
+            "Programmable Oscillators": {
+                "url": "https://www.digikey.es/en/products/filter/programmable-oscillators/169",
+                "subSubCategories": {}
+            },
+            "Resonators": {
+                "url": "https://www.digikey.es/en/products/filter/resonators/174",
+                "subSubCategories": {}
+            },
+            "VCOs (Voltage Controlled Oscillators)": {
+                "url": "https://www.digikey.es/en/products/filter/vcos-voltage-controlled-oscillators/173",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Discrete Semiconductor Products": {
+        "subCategories": {
+            "Current Regulation - Diodes, Transistors": {
+                "url": "https://www.digikey.es/en/products/filter/current-regulation-diodes-transistors/1164",
+                "subSubCategories": {}
+            },
+            "Bridge Rectifiers": {
+                "url": "https://www.digikey.es/en/products/filter/diodes/bridge-rectifiers/299",
+                "subSubCategories": {}
+            },
+            "Rectifiers": {
+                "url": "https://www.digikey.es/en/products/category/diodes/rectifiers/2085",
+                "subSubCategories": {}
+            },
+            "RF Diodes": {
+                "url": "https://www.digikey.es/en/products/filter/diodes/rf-diodes/284",
+                "subSubCategories": {}
+            },
+            "Variable Capacitance (Varicaps, Varactors)": {
+                "url": "https://www.digikey.es/en/products/filter/diodes/variable-capacitance-varicaps-varactors/282",
+                "subSubCategories": {}
+            },
+            "Zener": {
+                "url": "https://www.digikey.es/en/products/category/diodes/zener/2086",
+                "subSubCategories": {}
+            },
+            "Power Driver Modules": {
+                "url": "https://www.digikey.es/en/products/filter/power-driver-modules/296",
+                "subSubCategories": {}
+            },
+            "DIACs, SIDACs": {
+                "url": "https://www.digikey.es/en/products/filter/thyristors/diacs-sidacs/274",
+                "subSubCategories": {}
+            },
+            "SCRs": {
+                "url": "https://www.digikey.es/en/products/filter/thyristors/scrs/281",
+                "subSubCategories": {}
+            },
+            "SCRs - Modules": {
+                "url": "https://www.digikey.es/en/products/filter/thyristors/scrs-modules/298",
+                "subSubCategories": {}
+            },
+            "TRIACs": {
+                "url": "https://www.digikey.es/en/products/filter/thyristors/triacs/300",
+                "subSubCategories": {}
+            },
+            "Bipolar (BJT)": {
+                "url": "https://www.digikey.es/en/products/category/transistors/bipolar-bjt/2087",
+                "subSubCategories": {}
+            },
+            "FETs, MOSFETs": {
+                "url": "https://www.digikey.es/en/products/category/transistors/fets-mosfets/2088",
+                "subSubCategories": {}
+            },
+            "IGBTs": {
+                "url": "https://www.digikey.es/en/products/category/transistors/igbts/2089",
+                "subSubCategories": {}
+            },
+            "JFETs": {
+                "url": "https://www.digikey.es/en/products/filter/transistors/jfets/288",
+                "subSubCategories": {}
+            },
+            "Programmable Unijunction": {
+                "url": "https://www.digikey.es/en/products/filter/transistors/programmable-unijunction/290",
+                "subSubCategories": {}
+            },
+            "Special Purpose": {
+                "url": "https://www.digikey.es/en/products/filter/transistors/special-purpose/294",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Inductors, Coils, Chokes": {
+        "subCategories": {
+            "Adjustable Inductors": {
+                "url": "https://www.digikey.es/en/products/filter/adjustable-inductors/72",
+                "subSubCategories": {}
+            },
+            "Arrays, Signal Transformers": {
+                "url": "https://www.digikey.es/en/products/filter/arrays-signal-transformers/73",
+                "subSubCategories": {}
+            },
+            "Delay Lines": {
+                "url": "https://www.digikey.es/en/products/filter/delay-lines/74",
+                "subSubCategories": {}
+            },
+            "Fixed Inductors": {
+                "url": "https://www.digikey.es/en/products/filter/fixed-inductors/71",
+                "subSubCategories": {}
+            },
+            "Wireless Charging Coils": {
+                "url": "https://www.digikey.es/en/products/filter/wireless-charging-coils/75",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Integrated Circuits (ICs)": {
+        "subCategories": {
+            "Audio Special Purpose": {
+                "url": "https://www.digikey.es/en/products/filter/audio-special-purpose/741",
+                "subSubCategories": {}
+            },
+            "Application Specific Clock/Timing": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/application-specific-clock-timing/763",
+                "subSubCategories": {}
+            },
+            "Clock Buffers, Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/clock-buffers-drivers/764",
+                "subSubCategories": {}
+            },
+            "Clock Generators, PLLs, Frequency Synthesizers": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/clock-generators-plls-frequency-synthesizers/728",
+                "subSubCategories": {}
+            },
+            "Delay Lines": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/delay-lines/688",
+                "subSubCategories": {}
+            },
+            "IC Batteries": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/ic-batteries/762",
+                "subSubCategories": {}
+            },
+            "Programmable Timers and Oscillators": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/programmable-timers-and-oscillators/689",
+                "subSubCategories": {}
+            },
+            "Real Time Clocks": {
+                "url": "https://www.digikey.es/en/products/filter/clock-timing/real-time-clocks/690",
+                "subSubCategories": {}
+            },
+            "ADCs/DACs - Special Purpose": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/adcs-dacs-special-purpose/768",
+                "subSubCategories": {}
+            },
+            "Analog Front End (AFE)": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/analog-front-end-afe/724",
+                "subSubCategories": {}
+            },
+            "Analog to Digital Converters (ADC)": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/analog-to-digital-converters-adc/700",
+                "subSubCategories": {}
+            },
+            "Digital Potentiometers": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/digital-potentiometers/717",
+                "subSubCategories": {}
+            },
+            "Digital to Analog Converters (DAC)": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/digital-to-analog-converters-dac/701",
+                "subSubCategories": {}
+            },
+            "Touch Screen Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/data-acquisition/touch-screen-controllers/775",
+                "subSubCategories": {}
+            },
+            "Application Specific Microcontrollers": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/application-specific-microcontrollers/769",
+                "subSubCategories": {}
+            },
+            "CPLDs (Complex Programmable Logic Devices)": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/cplds-complex-programmable-logic-devices/695",
+                "subSubCategories": {}
+            },
+            "DSP (Digital Signal Processors)": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/dsp-digital-signal-processors/698",
+                "subSubCategories": {}
+            },
+            "FPGAs (Field Programmable Gate Array)": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/fpgas-field-programmable-gate-array/696",
+                "subSubCategories": {}
+            },
+            "FPGAs (Field Programmable Gate Array) with Microcontrollers": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/fpgas-field-programmable-gate-array-with-microcontrollers/767",
+                "subSubCategories": {}
+            },
+            "Microcontrollers": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/microcontrollers/685",
+                "subSubCategories": {}
+            },
+            "Microcontrollers, Microprocessor, FPGA Modules": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/microcontrollers-microprocessor-fpga-modules/721",
+                "subSubCategories": {}
+            },
+            "Microprocessors": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/microprocessors/694",
+                "subSubCategories": {}
+            },
+            "PLDs (Programmable Logic Device)": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/plds-programmable-logic-device/719",
+                "subSubCategories": {}
+            },
+            "System On Chip (SoC)": {
+                "url": "https://www.digikey.es/en/products/filter/embedded/system-on-chip-soc/777",
+                "subSubCategories": {}
+            },
+            "Analog Switches - Special Purpose": {
+                "url": "https://www.digikey.es/en/products/filter/interface/analog-switches-special-purpose/780",
+                "subSubCategories": {}
+            },
+            "Analog Switches, Multiplexers, Demultiplexers": {
+                "url": "https://www.digikey.es/en/products/filter/interface/analog-switches-multiplexers-demultiplexers/747",
+                "subSubCategories": {}
+            },
+            "CODECS": {
+                "url": "https://www.digikey.es/en/products/filter/interface/codecs/716",
+                "subSubCategories": {}
+            },
+            "Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/memory/controllers/736",
+                "subSubCategories": {}
+            },
+            "Direct Digital Synthesis (DDS)": {
+                "url": "https://www.digikey.es/en/products/filter/interface/direct-digital-synthesis-dds/723",
+                "subSubCategories": {}
+            },
+            "Drivers, Receivers, Transceivers": {
+                "url": "https://www.digikey.es/en/products/filter/interface/drivers-receivers-transceivers/710",
+                "subSubCategories": {}
+            },
+            "Encoders, Decoders, Converters": {
+                "url": "https://www.digikey.es/en/products/filter/interface/encoders-decoders-converters/709",
+                "subSubCategories": {}
+            },
+            "Filters - Active": {
+                "url": "https://www.digikey.es/en/products/filter/interface/filters-active/735",
+                "subSubCategories": {}
+            },
+            "I/O Expanders": {
+                "url": "https://www.digikey.es/en/products/filter/interface/i-o-expanders/749",
+                "subSubCategories": {}
+            },
+            "Modems - ICs and Modules": {
+                "url": "https://www.digikey.es/en/products/filter/interface/modems-ics-and-modules/722",
+                "subSubCategories": {}
+            },
+            "Modules": {
+                "url": "https://www.digikey.es/en/products/filter/interface/modules/778",
+                "subSubCategories": {}
+            },
+            "Sensor and Detector Interfaces": {
+                "url": "https://www.digikey.es/en/products/filter/interface/sensor-and-detector-interfaces/752",
+                "subSubCategories": {}
+            },
+            "Sensor, Capacitive Touch": {
+                "url": "https://www.digikey.es/en/products/filter/interface/sensor-capacitive-touch/560",
+                "subSubCategories": {}
+            },
+            "Serializers, Deserializers": {
+                "url": "https://www.digikey.es/en/products/filter/interface/serializers-deserializers/755",
+                "subSubCategories": {}
+            },
+            "Signal Buffers, Repeaters, Splitters": {
+                "url": "https://www.digikey.es/en/products/filter/interface/signal-buffers-repeaters-splitters/756",
+                "subSubCategories": {}
+            },
+            "Signal Terminators": {
+                "url": "https://www.digikey.es/en/products/filter/interface/signal-terminators/683",
+                "subSubCategories": {}
+            },
+            "Specialized": {
+                "url": "https://www.digikey.es/en/products/filter/interface/specialized/754",
+                "subSubCategories": {}
+            },
+            "Telecom": {
+                "url": "https://www.digikey.es/en/products/filter/interface/telecom/702",
+                "subSubCategories": {}
+            },
+            "UARTs (Universal Asynchronous Receiver Transmitter)": {
+                "url": "https://www.digikey.es/en/products/filter/interface/uarts-universal-asynchronous-receiver-transmitter/714",
+                "subSubCategories": {}
+            },
+            "Voice Record and Playback": {
+                "url": "https://www.digikey.es/en/products/filter/interface/voice-record-and-playback/733",
+                "subSubCategories": {}
+            },
+            "Amplifiers": {
+                "url": "https://www.digikey.es/en/products/category/linear/amplifiers/2034",
+                "subSubCategories": {}
+            },
+            "Analog Multipliers, Dividers": {
+                "url": "https://www.digikey.es/en/products/filter/linear/analog-multipliers-dividers/772",
+                "subSubCategories": {}
+            },
+            "Comparators": {
+                "url": "https://www.digikey.es/en/products/filter/logic/comparators/773",
+                "subSubCategories": {}
+            },
+            "Video Processing": {
+                "url": "https://www.digikey.es/en/products/filter/linear/video-processing/684",
+                "subSubCategories": {}
+            },
+            "Buffers, Drivers, Receivers, Transceivers": {
+                "url": "https://www.digikey.es/en/products/filter/logic/buffers-drivers-receivers-transceivers/704",
+                "subSubCategories": {}
+            },
+            "Counters, Dividers": {
+                "url": "https://www.digikey.es/en/products/filter/logic/counters-dividers/731",
+                "subSubCategories": {}
+            },
+            "FIFOs Memory": {
+                "url": "https://www.digikey.es/en/products/filter/logic/fifos-memory/707",
+                "subSubCategories": {}
+            },
+            "Flip Flops": {
+                "url": "https://www.digikey.es/en/products/filter/logic/flip-flops/706",
+                "subSubCategories": {}
+            },
+            "Gates and Inverters": {
+                "url": "https://www.digikey.es/en/products/filter/logic/gates-and-inverters/705",
+                "subSubCategories": {}
+            },
+            "Gates and Inverters - Multi-Function, Configurable": {
+                "url": "https://www.digikey.es/en/products/filter/logic/gates-and-inverters-multi-function-configurable/770",
+                "subSubCategories": {}
+            },
+            "Latches": {
+                "url": "https://www.digikey.es/en/products/filter/logic/latches/708",
+                "subSubCategories": {}
+            },
+            "Multivibrators": {
+                "url": "https://www.digikey.es/en/products/filter/logic/multivibrators/711",
+                "subSubCategories": {}
+            },
+            "Parity Generators and Checkers": {
+                "url": "https://www.digikey.es/en/products/filter/logic/parity-generators-and-checkers/720",
+                "subSubCategories": {}
+            },
+            "Shift Registers": {
+                "url": "https://www.digikey.es/en/products/filter/logic/shift-registers/712",
+                "subSubCategories": {}
+            },
+            "Signal Switches, Multiplexers, Decoders": {
+                "url": "https://www.digikey.es/en/products/filter/logic/signal-switches-multiplexers-decoders/743",
+                "subSubCategories": {}
+            },
+            "Specialty Logic": {
+                "url": "https://www.digikey.es/en/products/filter/logic/specialty-logic/703",
+                "subSubCategories": {}
+            },
+            "Translators, Level Shifters": {
+                "url": "https://www.digikey.es/en/products/filter/logic/translators-level-shifters/732",
+                "subSubCategories": {}
+            },
+            "Universal Bus Functions": {
+                "url": "https://www.digikey.es/en/products/filter/logic/universal-bus-functions/725",
+                "subSubCategories": {}
+            },
+            "Batteries": {
+                "url": "https://www.digikey.es/en/products/filter/memory/batteries/766",
+                "subSubCategories": {}
+            },
+            "Configuration PROMs for FPGAs": {
+                "url": "https://www.digikey.es/en/products/filter/memory/configuration-proms-for-fpgas/697",
+                "subSubCategories": {}
+            },
+            "Memory": {
+                "url": "https://www.digikey.es/en/products/filter/memory/memory/774",
+                "subSubCategories": {}
+            },
+            "AC DC Converters, Offline Switches": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/ac-dc-converters-offline-switches/748",
+                "subSubCategories": {}
+            },
+            "Battery Chargers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/battery-chargers/781",
+                "subSubCategories": {}
+            },
+            "Battery Management": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/battery-management/713",
+                "subSubCategories": {}
+            },
+            "Current Regulation/Management": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/current-regulation-management/734",
+                "subSubCategories": {}
+            },
+            "DC DC Switching Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/dc-dc-switching-controllers/715",
+                "subSubCategories": {}
+            },
+            "Display Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/display-drivers/729",
+                "subSubCategories": {}
+            },
+            "Energy Metering": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/energy-metering/765",
+                "subSubCategories": {}
+            },
+            "Full Half-Bridge (H Bridge) Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/full-half-bridge-h-bridge-drivers/746",
+                "subSubCategories": {}
+            },
+            "Gate Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/gate-drivers/730",
+                "subSubCategories": {}
+            },
+            "Hot Swap Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/hot-swap-controllers/718",
+                "subSubCategories": {}
+            },
+            "Laser Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/laser-drivers/681",
+                "subSubCategories": {}
+            },
+            "LED Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/led-drivers/745",
+                "subSubCategories": {}
+            },
+            "Lighting, Ballast Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/lighting-ballast-controllers/751",
+                "subSubCategories": {}
+            },
+            "Motor Drivers, Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/motor-drivers-controllers/744",
+                "subSubCategories": {}
+            },
+            "OR Controllers, Ideal Diodes": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/or-controllers-ideal-diodes/758",
+                "subSubCategories": {}
+            },
+            "PFC (Power Factor Correction)": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/pfc-power-factor-correction/759",
+                "subSubCategories": {}
+            },
+            "Power Distribution Switches, Load Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/power-distribution-switches-load-drivers/726",
+                "subSubCategories": {}
+            },
+            "Power Management - Specialized": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/power-management-specialized/761",
+                "subSubCategories": {}
+            },
+            "Power Over Ethernet (PoE) Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/power-over-ethernet-poe-controllers/779",
+                "subSubCategories": {}
+            },
+            "Power Supply Controllers, Monitors": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/power-supply-controllers-monitors/760",
+                "subSubCategories": {}
+            },
+            "RMS to DC Converters": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/rms-to-dc-converters/740",
+                "subSubCategories": {}
+            },
+            "Special Purpose Regulators": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/special-purpose-regulators/750",
+                "subSubCategories": {}
+            },
+            "Supervisors": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/supervisors/691",
+                "subSubCategories": {}
+            },
+            "Thermal Management": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/thermal-management/738",
+                "subSubCategories": {}
+            },
+            "V/F and F/V Converters": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/v-f-and-f-v-converters/727",
+                "subSubCategories": {}
+            },
+            "Voltage Reference": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/voltage-reference/693",
+                "subSubCategories": {}
+            },
+            "Voltage Regulators - DC DC Switching Regulators": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/voltage-regulators-dc-dc-switching-regulators/739",
+                "subSubCategories": {}
+            },
+            "Voltage Regulators - Linear + Switching": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/voltage-regulators-linear-switching/776",
+                "subSubCategories": {}
+            },
+            "Voltage Regulators - Linear Regulator Controllers": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/voltage-regulators-linear-regulator-controllers/757",
+                "subSubCategories": {}
+            },
+            "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators": {
+                "url": "https://www.digikey.es/en/products/filter/power-management-pmic/voltage-regulators-linear-low-drop-out-ldo-regulators/699",
+                "subSubCategories": {}
+            },
+            "Specialized ICs": {
+                "url": "https://www.digikey.es/en/products/filter/specialized-ics/686",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Isolators": {
+        "subCategories": {
+            "Digital Isolators": {
+                "url": "https://www.digikey.es/en/products/filter/digital-isolators/901",
+                "subSubCategories": {}
+            },
+            "Isolators - Gate Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/isolators-gate-drivers/906",
+                "subSubCategories": {}
+            },
+            "Logic Output Optoisolators": {
+                "url": "https://www.digikey.es/en/products/filter/optoisolators/logic-output-optoisolators/902",
+                "subSubCategories": {}
+            },
+            "Transistor, Photovoltaic Output Optoisolators": {
+                "url": "https://www.digikey.es/en/products/filter/optoisolators/transistor-photovoltaic-output-optoisolators/903",
+                "subSubCategories": {}
+            },
+            "Triac, SCR Output Optoisolators": {
+                "url": "https://www.digikey.es/en/products/filter/optoisolators/triac-scr-output-optoisolators/904",
+                "subSubCategories": {}
+            },
+            "Special Purpose Isolators": {
+                "url": "https://www.digikey.es/en/products/filter/special-purpose-isolators/905",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Optoelectronics": {
+        "subCategories": {
+            "Circuit Board Indicators, Arrays, Light Bars, Bar Graphs": {
+                "url": "https://www.digikey.es/en/products/filter/circuit-board-indicators-arrays-light-bars-bar-graphs/106",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Receivers": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-receivers/117",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Transmitters - Discrete": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-transmitters-discrete/116",
+                "subSubCategories": {}
+            },
+            "Fiber Optic Transmitters - Drive Circuitry Integrated": {
+                "url": "https://www.digikey.es/en/products/filter/fiber-optic-transmitters-drive-circuitry-integrated/115",
+                "subSubCategories": {}
+            },
+            "LED COBs, Engines, Modules, Strips": {
+                "url": "https://www.digikey.es/en/products/filter/led-cobs-engines-modules-strips/111",
+                "subSubCategories": {}
+            },
+            "LED Color Lighting": {
+                "url": "https://www.digikey.es/en/products/filter/led-color-lighting/125",
+                "subSubCategories": {}
+            },
+            "LED Emitters - Infrared, UV, Visible": {
+                "url": "https://www.digikey.es/en/products/filter/led-emitters-infrared-uv-visible/94",
+                "subSubCategories": {}
+            },
+            "LED Indication - Discrete": {
+                "url": "https://www.digikey.es/en/products/filter/led-indication-discrete/105",
+                "subSubCategories": {}
+            },
+            "LED White Lighting": {
+                "url": "https://www.digikey.es/en/products/filter/led-white-lighting/124",
+                "subSubCategories": {}
+            },
+            "Panel Indicators, Pilot Lights": {
+                "url": "https://www.digikey.es/en/products/filter/panel-indicators-pilot-lights/108",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Power Supplies - Board Mount": {
+        "subCategories": {
+            "AC DC Converters": {
+                "url": "https://www.digikey.es/en/products/filter/ac-dc-converters/923",
+                "subSubCategories": {}
+            },
+            "DC DC Converters": {
+                "url": "https://www.digikey.es/en/products/filter/dc-dc-converters/922",
+                "subSubCategories": {}
+            },
+            "LED Drivers": {
+                "url": "https://www.digikey.es/en/products/filter/led-drivers/924",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Relays": {
+        "subCategories": {
+            "Automotive Relays": {
+                "url": "https://www.digikey.es/en/products/filter/automotive-relays/962",
+                "subSubCategories": {}
+            },
+            "Contactors (Electromechanical)": {
+                "url": "https://www.digikey.es/en/products/filter/contactors-electromechanical/969",
+                "subSubCategories": {}
+            },
+            "Contactors (Solid State)": {
+                "url": "https://www.digikey.es/en/products/filter/contactors-solid-state/970",
+                "subSubCategories": {}
+            },
+            "High Frequency (RF) Relays": {
+                "url": "https://www.digikey.es/en/products/filter/high-frequency-rf-relays/963",
+                "subSubCategories": {}
+            },
+            "Power Relays, Over 2 Amps": {
+                "url": "https://www.digikey.es/en/products/filter/power-relays-over-2-amps/188",
+                "subSubCategories": {}
+            },
+            "Reed Relays": {
+                "url": "https://www.digikey.es/en/products/filter/reed-relays/964",
+                "subSubCategories": {}
+            },
+            "Safety Relays": {
+                "url": "https://www.digikey.es/en/products/filter/safety-relays/989",
+                "subSubCategories": {}
+            },
+            "Signal Relays, Up to 2 Amps": {
+                "url": "https://www.digikey.es/en/products/filter/signal-relays-up-to-2-amps/189",
+                "subSubCategories": {}
+            },
+            "Solid State Relays": {
+                "url": "https://www.digikey.es/en/products/filter/solid-state-relays/183",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "RF and Wireless": {
+        "subCategories": {
+            "Attenuators": {
+                "url": "https://www.digikey.es/en/products/filter/attenuators/852",
+                "subSubCategories": {}
+            },
+            "Balun": {
+                "url": "https://www.digikey.es/en/products/filter/balun/849",
+                "subSubCategories": {}
+            },
+            "RF Amplifiers": {
+                "url": "https://www.digikey.es/en/products/filter/rf-amplifiers/860",
+                "subSubCategories": {}
+            },
+            "RF Antennas": {
+                "url": "https://www.digikey.es/en/products/filter/rf-antennas/875",
+                "subSubCategories": {}
+            },
+            "RF Circulators and Isolators": {
+                "url": "https://www.digikey.es/en/products/filter/rf-circulators-and-isolators/1010",
+                "subSubCategories": {}
+            },
+            "RF Demodulators": {
+                "url": "https://www.digikey.es/en/products/filter/rf-demodulators/878",
+                "subSubCategories": {}
+            },
+            "RF Detectors": {
+                "url": "https://www.digikey.es/en/products/filter/rf-detectors/862",
+                "subSubCategories": {}
+            },
+            "RF Directional Coupler": {
+                "url": "https://www.digikey.es/en/products/filter/rf-directional-coupler/850",
+                "subSubCategories": {}
+            },
+            "RF Front End (LNA + PA)": {
+                "url": "https://www.digikey.es/en/products/filter/rf-front-end-lna-pa/876",
+                "subSubCategories": {}
+            },
+            "RF Misc ICs and Modules": {
+                "url": "https://www.digikey.es/en/products/filter/rf-misc-ics-and-modules/863",
+                "subSubCategories": {}
+            },
+            "RF Mixers": {
+                "url": "https://www.digikey.es/en/products/filter/rf-mixers/861",
+                "subSubCategories": {}
+            },
+            "RF Modulators": {
+                "url": "https://www.digikey.es/en/products/filter/rf-modulators/877",
+                "subSubCategories": {}
+            },
+            "RF Multiplexers": {
+                "url": "https://www.digikey.es/en/products/filter/rf-multiplexers/868",
+                "subSubCategories": {}
+            },
+            "RF Power Controller ICs": {
+                "url": "https://www.digikey.es/en/products/filter/rf-power-controller-ics/864",
+                "subSubCategories": {}
+            },
+            "RF Power Dividers/Splitters": {
+                "url": "https://www.digikey.es/en/products/filter/rf-power-dividers-splitters/851",
+                "subSubCategories": {}
+            },
+            "RF Receivers": {
+                "url": "https://www.digikey.es/en/products/filter/rf-receivers/870",
+                "subSubCategories": {}
+            },
+            "RF Shields": {
+                "url": "https://www.digikey.es/en/products/filter/rf-shields/867",
+                "subSubCategories": {}
+            },
+            "RF Switches": {
+                "url": "https://www.digikey.es/en/products/filter/rf-switches/865",
+                "subSubCategories": {}
+            },
+            "RF Transceiver ICs": {
+                "url": "https://www.digikey.es/en/products/filter/rf-transceiver-ics/879",
+                "subSubCategories": {}
+            },
+            "RF Transceiver Modules and Modems": {
+                "url": "https://www.digikey.es/en/products/filter/rf-transceiver-modules-and-modems/872",
+                "subSubCategories": {}
+            },
+            "RF Transmitters": {
+                "url": "https://www.digikey.es/en/products/filter/rf-transmitters/871",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Sensors, Transducers": {
+        "subCategories": {
+            "Color Sensors": {
+                "url": "https://www.digikey.es/en/products/filter/color-sensors/539",
+                "subSubCategories": {}
+            },
+            "Current Sensors": {
+                "url": "https://www.digikey.es/en/products/filter/current-sensors/525",
+                "subSubCategories": {}
+            },
+            "Encoders": {
+                "url": "https://www.digikey.es/en/products/filter/encoders/507",
+                "subSubCategories": {}
+            },
+            "Encoders - Industrial": {
+                "url": "https://www.digikey.es/en/products/filter/encoders-industrial/1075",
+                "subSubCategories": {}
+            },
+            "Force Sensors, Load Cells": {
+                "url": "https://www.digikey.es/en/products/filter/force-sensors-load-cells/531",
+                "subSubCategories": {}
+            },
+            "Force Sensors, Load Cells - Industrial": {
+                "url": "https://www.digikey.es/en/products/filter/force-sensors-load-cells-industrial/1066",
+                "subSubCategories": {}
+            },
+            "IrDA Transceiver Modules": {
+                "url": "https://www.digikey.es/en/products/filter/irda-transceiver-modules/538",
+                "subSubCategories": {}
+            },
+            "Linear, Compass (ICs)": {
+                "url": "https://www.digikey.es/en/products/filter/magnetic-sensors/linear-compass-ics/554",
+                "subSubCategories": {}
+            },
+            "Switches (Solid State)": {
+                "url": "https://www.digikey.es/en/products/filter/magnetic-sensors/switches-solid-state/565",
+                "subSubCategories": {}
+            },
+            "Accelerometers": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/accelerometers/515",
+                "subSubCategories": {}
+            },
+            "Gyroscopes": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/gyroscopes/555",
+                "subSubCategories": {}
+            },
+            "IMUs (Inertial Measurement Units)": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/imus-inertial-measurement-units/567",
+                "subSubCategories": {}
+            },
+            "Inclinometers": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/inclinometers/533",
+                "subSubCategories": {}
+            },
+            "Optical Motion Sensors": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/optical-motion-sensors/534",
+                "subSubCategories": {}
+            },
+            "Tilt Switches": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/tilt-switches/523",
+                "subSubCategories": {}
+            },
+            "Vibration Sensors": {
+                "url": "https://www.digikey.es/en/products/filter/motion-sensors/vibration-sensors/519",
+                "subSubCategories": {}
+            },
+            "Ambient Light, IR, UV Sensors": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/ambient-light-ir-uv-sensors/536",
+                "subSubCategories": {}
+            },
+            "Distance Measuring": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/distance-measuring/542",
+                "subSubCategories": {}
+            },
+            "Image Sensors, Camera": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/image-sensors-camera/532",
+                "subSubCategories": {}
+            },
+            "Photo Detectors - CdS Cells": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photo-detectors-cds-cells/540",
+                "subSubCategories": {}
+            },
+            "Photo Detectors - Logic Output": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photo-detectors-logic-output/545",
+                "subSubCategories": {}
+            },
+            "Photo Detectors - Remote Receiver": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photo-detectors-remote-receiver/541",
+                "subSubCategories": {}
+            },
+            "Photodiodes": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photodiodes/543",
+                "subSubCategories": {}
+            },
+            "Photointerrupters - Slot Type - Logic Output": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photointerrupters-slot-type-logic-output/547",
+                "subSubCategories": {}
+            },
+            "Photointerrupters - Slot Type - Transistor Output": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/photointerrupters-slot-type-transistor-output/548",
+                "subSubCategories": {}
+            },
+            "Phototransistors": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/phototransistors/544",
+                "subSubCategories": {}
+            },
+            "Reflective - Analog Output": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/reflective-analog-output/546",
+                "subSubCategories": {}
+            },
+            "Reflective - Logic Output": {
+                "url": "https://www.digikey.es/en/products/filter/optical-sensors/reflective-logic-output/556",
+                "subSubCategories": {}
+            },
+            "Angle, Linear Position Measuring": {
+                "url": "https://www.digikey.es/en/products/filter/position-sensors/angle-linear-position-measuring/549",
+                "subSubCategories": {}
+            },
+            "Pressure Sensors, Transducers": {
+                "url": "https://www.digikey.es/en/products/filter/pressure-sensors-transducers/512",
+                "subSubCategories": {}
+            },
+            "Pressure Sensors, Transducers - Industrial": {
+                "url": "https://www.digikey.es/en/products/filter/pressure-sensors-transducers-industrial/1069",
+                "subSubCategories": {}
+            },
+            "Analog and Digital Output - Industrial": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/analog-and-digital-output-industrial/1073",
+                "subSubCategories": {}
+            },
+            "NTC Thermistors": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/ntc-thermistors/508",
+                "subSubCategories": {}
+            },
+            "PTC Thermistors": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/ptc-thermistors/550",
+                "subSubCategories": {}
+            },
+            "RTD (Resistance Temperature Detector)": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/rtd-resistance-temperature-detector/535",
+                "subSubCategories": {}
+            },
+            "Thermocouples, Temperature Probes": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/thermocouples-temperature-probes/513",
+                "subSubCategories": {}
+            },
+            "Thermostats - Mechanical": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/thermostats-mechanical/516",
+                "subSubCategories": {}
+            },
+            "Thermostats - Mechanical - Industrial": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/thermostats-mechanical-industrial/1072",
+                "subSubCategories": {}
+            },
+            "Thermostats - Solid State": {
+                "url": "https://www.digikey.es/en/products/filter/temperature-sensors/thermostats-solid-state/564",
+                "subSubCategories": {}
+            }
+        }
+    },
+    "Switches": {
+        "subCategories": {
+            "Accessories": {
+                "url": "https://www.digikey.es/en/products/filter/accessories/192",
+                "subSubCategories": {}
+            },
+            "Accessories - Boots, Seals": {
+                "url": "https://www.digikey.es/en/products/filter/accessories-boots-seals/215",
+                "subSubCategories": {}
+            },
+            "Accessories - Caps": {
+                "url": "https://www.digikey.es/en/products/filter/accessories-caps/210",
+                "subSubCategories": {}
+            },
+            "Cable Pull Switches": {
+                "url": "https://www.digikey.es/en/products/filter/cable-pull-switches/968",
+                "subSubCategories": {}
+            },
+            "Configurable Switch Bodies": {
+                "url": "https://www.digikey.es/en/products/filter/configurable-switch-components/configurable-switch-bodies/206",
+                "subSubCategories": {}
+            },
+            "Configurable Switch Contact Blocks": {
+                "url": "https://www.digikey.es/en/products/filter/configurable-switch-components/configurable-switch-contact-blocks/207",
+                "subSubCategories": {}
+            },
+            "Configurable Switch Illumination Sources": {
+                "url": "https://www.digikey.es/en/products/filter/configurable-switch-components/configurable-switch-illumination-sources/208",
+                "subSubCategories": {}
+            },
+            "Configurable Switch Lens": {
+                "url": "https://www.digikey.es/en/products/filter/configurable-switch-components/configurable-switch-lens/209",
+                "subSubCategories": {}
+            },
+            "DIP Switches": {
+                "url": "https://www.digikey.es/en/products/filter/dip-switches/194",
+                "subSubCategories": {}
+            },
+            "Disconnect Switch Components": {
+                "url": "https://www.digikey.es/en/products/filter/disconnect-switch-components/153",
+                "subSubCategories": {}
+            },
+            "Emergency Stop (E-Stop) Switches": {
+                "url": "https://www.digikey.es/en/products/filter/emergency-stop-e-stop-switches/1056",
+                "subSubCategories": {}
+            },
+            "Interlock Switches": {
+                "url": "https://www.digikey.es/en/products/filter/interlock-switches/1060",
+                "subSubCategories": {}
+            },
+            "Keylock Switches": {
+                "url": "https://www.digikey.es/en/products/filter/keylock-switches/196",
+                "subSubCategories": {}
+            },
+            "Keypad Switches": {
+                "url": "https://www.digikey.es/en/products/filter/keypad-switches/202",
+                "subSubCategories": {}
+            },
+            "Limit Switches": {
+                "url": "https://www.digikey.es/en/products/filter/limit-switches/198",
+                "subSubCategories": {}
+            },
+            "Magnetic, Reed Switches": {
+                "url": "https://www.digikey.es/en/products/filter/magnetic-reed-switches/193",
+                "subSubCategories": {}
+            },
+            "Navigation Switches, Joystick": {
+                "url": "https://www.digikey.es/en/products/filter/navigation-switches-joystick/204",
+                "subSubCategories": {}
+            },
+            "Programmable Display Switches": {
+                "url": "https://www.digikey.es/en/products/filter/programmable-display-switches/212",
+                "subSubCategories": {}
+            },
+            "Pushbutton Switches": {
+                "url": "https://www.digikey.es/en/products/filter/pushbutton-switches/199",
+                "subSubCategories": {}
+            },
+            "Pushbutton Switches - Hall Effect": {
+                "url": "https://www.digikey.es/en/products/filter/pushbutton-switches-hall-effect/211",
+                "subSubCategories": {}
+            },
+            "Rocker Switches": {
+                "url": "https://www.digikey.es/en/products/filter/rocker-switches/195",
+                "subSubCategories": {}
+            },
+            "Rotary Switches": {
+                "url": "https://www.digikey.es/en/products/filter/rotary-switches/200",
+                "subSubCategories": {}
+            },
+            "Selector Switches": {
+                "url": "https://www.digikey.es/en/products/filter/selector-switches/203",
+                "subSubCategories": {}
+            },
+            "Slide Switches": {
+                "url": "https://www.digikey.es/en/products/filter/slide-switches/213",
+                "subSubCategories": {}
+            },
+            "Tactile Switches": {
+                "url": "https://www.digikey.es/en/products/filter/tactile-switches/197",
+                "subSubCategories": {}
+            },
+            "Thumbwheel Switches": {
+                "url": "https://www.digikey.es/en/products/filter/thumbwheel-switches/214",
+                "subSubCategories": {}
+            },
+            "Toggle Switches": {
+                "url": "https://www.digikey.es/en/products/filter/toggle-switches/201",
+                "subSubCategories": {}
+            }
+        }
+    }
+}
