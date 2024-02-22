@@ -1,3 +1,4 @@
+import asyncio
 import json
 from fake_useragent import UserAgent
 import lzstring
@@ -8,6 +9,15 @@ import aiohttp
 import ssl
 from aiohttp_socks import ProxyConnector
 
+import logging
+
+# Настройка логгера для ошибок запросов
+error_logger = logging.getLogger("request_errors_in_utils")
+error_logger.setLevel(logging.INFO)
+file_handler = logging.FileHandler("request_errors_in_utils.log")
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+file_handler.setFormatter(formatter)
+error_logger.addHandler(file_handler)
 
 
 def make_compress_pagination(page: int):
@@ -61,18 +71,25 @@ async def fetch_with_pagination(url_to_download: str, page:int, old_ulr: str, pr
     connector = ProxyConnector.from_url(proxy_url) if proxy_url else None
     params = {}
 
-    async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
-
-        async with session.get(f'{url_to_download}?s={pagination}', ssl=sslcontext, params=params) as response:
-            if response.status == 200:
-                text = await response.text()
-                print(f'********************\n{old_ulr}?s={pagination}\n{url_to_download}?s={pagination}**********')
-                # with open(f'file{pagination}.csv', 'w') as f:
-                #     f.write(text)
-                return text, 200
-            elif response.status == 204:
-                return None, 204
-            return None, response.status
+    max_attempt = 5
+    attempt = 0
+    while attempt < max_attempt:
+        try:
+            async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
+                async with session.get(f'{url_to_download}?s={pagination}', ssl=sslcontext, params=params) as response:
+                    if response.status == 200:
+                        text = await response.text()
+                        print(f'********************\n{old_ulr}?s={pagination}\n{url_to_download}?s={pagination}**********')
+                        # with open(f'file{pagination}.csv', 'w') as f:
+                        #     f.write(text)
+                        return text, 200
+                    elif response.status == 204:
+                        return None, 204
+                    return None, response.status
+        except Exception as e:
+            error_logger.error(f"Ошибка при запросе к {url_to_download}: {e}")
+            attempt += 1
+            await asyncio.sleep(20)
 
 
 def format_identifier(identifier):

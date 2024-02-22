@@ -44,7 +44,7 @@ DB_DATABASE = os.getenv("DB_DATABASE")
 PROXY_ADDRESS = os.getenv("PROXY_ADDRESS")
 
 
-sem = asyncio.Semaphore(3)  # Ограничение в 3 одновременных задач
+sem = asyncio.Semaphore(2)  # Ограничение в 3 одновременных задач
 
 async def process_category(category, pool, sem):
     async with sem:  # Ожидание получения "разрешения" для выполнения
@@ -91,7 +91,7 @@ async def process_category(category, pool, sem):
                                           formatted_column_names + ['category_name', 'subcategory_name'], data)
 
                     success_logger.info(
-                        f"Страница номер {first_page} для категории {category_name} status {status} записано в БД, количество попыток {attempt}")
+                        f"Страница номер {first_page} адресс {url_to_download} для категории {category_name} и {subcategory_name} status {status} записано в БД, количество попыток {attempt}")
                     attempt = 0
                     first_page += 1
                     status_list.clear()
@@ -99,7 +99,7 @@ async def process_category(category, pool, sem):
 
                 elif status == 204:
                     finish_logger.info(
-                        f"Все страницы для категории '{category_name}' успешно обработаны и данные записаны в БД. Последняя обработанная страница: {first_page - 1}"
+                        f"Все страницы для категории '{category_name}' и {subcategory_name} успешно обработаны и данные записаны в БД. Последняя обработанная страница: {first_page - 1}"
                     )
                     status_list.clear()
                     pagination_flag = False
@@ -127,7 +127,7 @@ async def process_category(category, pool, sem):
                     status_codes_str = ", ".join(map(str, status_list))
                     # Запись в лог
                     error_logger.info(
-                        f"Для страницы {first_page} и категории {category_name} было превышено максимальное количество попыток. Статусы попыток: {status_codes_str}"
+                        f"Для страницы {first_page} и категории {category_name} и {subcategory_name} было превышено максимальное количество попыток. Статусы попыток: {status_codes_str}"
                     )
                     status_list.clear()
                     pagination_flag = False
@@ -140,7 +140,7 @@ async def main():
                                      port=DB_PORT)
     print(f"Pool created")
 
-    all_links_path = 'digikey_links.json'
+    all_links_path = '/home/projects/catalog_extraction/digikey/digikey_links.json'
     with open(all_links_path) as f:
         all_links = json.load(f)
 
