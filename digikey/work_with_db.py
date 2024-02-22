@@ -76,11 +76,12 @@ async def drop_table(table_name: str):
 # asyncio.run(fetch_table_names())
 res = asyncio.run(fetch_table_content(table_name='alarms_buzzers_and_sirens'))
 
-for index, row in enumerate(res):
-    print(row)
+# print(len(res))
+# for index, row in enumerate(res):
+#     print(row)
     # if index == 15:
     #     break
 
 # res = asyncio.run(fetch_table_schema(table_name='alarms_buzzers_and_sirens'))
-
+# print(len(res))
 # asyncio.run(drop_table("alarms_buzzers_and_sirens"))
