@@ -91,6 +91,9 @@ async def fetch_with_pagination(url_to_download: str, page:int, old_ulr: str, pr
             attempt += 1
             await asyncio.sleep(20)
 
+    if attempt == max_attempt:
+        return None, 502
+
 
 def format_identifier(identifier):
     """
