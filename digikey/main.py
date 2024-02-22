@@ -44,23 +44,15 @@ DB_DATABASE = os.getenv("DB_DATABASE")
 PROXY_ADDRESS = os.getenv("PROXY_ADDRESS")
 
 
-async def main():
-    # Создание пула соединений
-    pool = await asyncpg.create_pool(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST,
-                                     port=DB_PORT)
-    print(f"Pool created")
+sem = asyncio.Semaphore(3)  # Ограничение в 3 одновременных задач
 
-    all_links_path = 'digikey_links.json'
-    with open(all_links_path) as f:
-        all_links = json.load(f)
-
-    # ЗДЕСь надо переберать страницы или нет?
-    for category in all_links:
-        name_for_table = all_links[category]['name_for_table']  # нужно для создания таблицы с этим именем
-        category_name = all_links[category]['category_name']  # нужно для имени колонки в БД
-        subcategory_name = all_links[category]['name_for_table']  # нужно для имени колонки в БД
-        url_to_download = all_links[category]['url_to_download']  # нужно парсинга
-        old_url = all_links[category]['old_url']  # для хедерсов
+async def process_category(category, pool, sem):
+    async with sem:  # Ожидание получения "разрешения" для выполнения
+        name_for_table = category['name_for_table']  # нужно для создания таблицы с этим именем
+        category_name = category['category_name']  # нужно для имени колонки в БД
+        subcategory_name = category['name_for_table']  # нужно для имени колонки в БД
+        url_to_download = category['url_to_download']  # нужно парсинга
+        old_url = category['old_url']  # для хедерсов
         # Форматирование
         formatted_name_for_table = format_identifier(name_for_table)
         formatted_category_name = format_identifier(category_name)
@@ -139,6 +131,22 @@ async def main():
                     )
                     status_list.clear()
                     pagination_flag = False
+                    attempt = 0
+
+
+async def main():
+    # Создание пула соединений
+    pool = await asyncpg.create_pool(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST,
+                                     port=DB_PORT)
+    print(f"Pool created")
+
+    all_links_path = 'digikey_links.json'
+    with open(all_links_path) as f:
+        all_links = json.load(f)
+
+    # Изменение создания задач:
+    tasks = [process_category(category, pool, sem) for category in all_links.values()]
+    await asyncio.gather(*tasks)
 
     # Закрытие пула соединений
     await pool.close()
