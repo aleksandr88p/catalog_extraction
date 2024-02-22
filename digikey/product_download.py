@@ -1,11 +1,11 @@
 import csv
 import json
-
+import io
 import requests
 
 
 
-def download_exel():
+def work_exel(pagination):
     cookies = {
     }
 
@@ -30,12 +30,13 @@ def download_exel():
         'Sec-Fetch-Site': 'same-origin',
     }
 
+    # params = {
+    #     's': 'N4IgrCBcoA5QjAFgEwBoQzpeAGHBffIA',
+    # }
     params = {
-        's': 'N4IgrCBcoA5QjAFgEwBoQzpeAGHBffIA',
     }
-
     response = requests.get(
-        'https://www.digikey.es/products/api/v5/filter-page/products-download/157?s=N4IgrCBcAEoA5WgRgDTRHBMkAYcF98g',
+        f'https://www.digikey.es/products/api/v5/filter-page/products-download/157?s={pagination}',
         params=params,
         cookies=cookies,
         headers=headers,
@@ -58,7 +59,7 @@ url = 'https://www.digikey.es/products/api/v5/filter-page/products-download/60?s
 
 url2 = 'https://www.digikey.es/products/api/v5/filter-page/products-download/157?s=N4IgrCBcoA5QzAGhDOkCMAGTBfHQ'
 
-# download_exel()
+work_exel("N4IgrCBcAEoA5WgRgDTRHBMkAYcF98g")
 
 
 """
