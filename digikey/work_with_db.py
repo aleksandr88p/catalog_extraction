@@ -73,9 +73,11 @@ async def drop_table(table_name: str):
     print(f"Table {table_name} has been dropped.")
     await conn.close()
 
-# asyncio.run(fetch_table_names())
-res = asyncio.run(fetch_table_content(table_name='alarms_buzzers_and_sirens'))
 
+# asyncio.run(fetch_table_names())
+
+# asyncio.run(fetch_table_names())
+# res = asyncio.run(fetch_table_content(table_name='headers_specialty_pin'))
 # print(len(res))
 # for index, row in enumerate(res):
 #     print(row)
@@ -85,3 +87,5 @@ res = asyncio.run(fetch_table_content(table_name='alarms_buzzers_and_sirens'))
 # res = asyncio.run(fetch_table_schema(table_name='alarms_buzzers_and_sirens'))
 # print(len(res))
 # asyncio.run(drop_table("alarms_buzzers_and_sirens"))
+
+# asyncio.run(drop_table("vcos_voltage_controlled_oscillators"))

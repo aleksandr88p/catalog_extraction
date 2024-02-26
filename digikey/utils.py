@@ -95,15 +95,23 @@ async def fetch_with_pagination(url_to_download: str, page:int, old_ulr: str, pr
         return None, 502
 
 
+# def format_identifier(identifier):
+#     """
+#     Форматирует строку для использования в качестве названия таблицы или колонки в SQL.
+#     Удаляет специальные символы, заменяет пробелы на подчеркивания и приводит к нижнему регистру.
+#     """
+#     # Удаляем специальные символы и заменяем пробелы на подчеркивания
+#     formatted = ''.join(char if char.isalnum() or char == ' ' else '' for char in identifier).replace(' ', '_').lower()
+#     return formatted
 def format_identifier(identifier):
     """
     Форматирует строку для использования в качестве названия таблицы или колонки в SQL.
-    Удаляет специальные символы, заменяет пробелы на подчеркивания и приводит к нижнему регистру.
     """
-    # Удаляем специальные символы и заменяем пробелы на подчеркивания
     formatted = ''.join(char if char.isalnum() or char == ' ' else '' for char in identifier).replace(' ', '_').lower()
+    # Добавляем префикс 'c_' если имя начинается с цифры
+    if formatted and formatted[0].isdigit():
+        formatted = 'c_' + formatted
     return formatted
-
 
 # async def fetch_with_pagination(url_to_download: str, page: int, old_ulr: str, proxy_url: str = None):
 #     async with aiohttp.ClientSession() as session:
