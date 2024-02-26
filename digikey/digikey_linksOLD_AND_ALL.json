@@ -1,4 +1,880 @@
 {
+    "category_1": {
+        "name_for_table": "Alarms, Buzzers, and Sirens",
+        "category_name": "Audio Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/157",
+        "old_url": "https://www.digikey.es/en/products/filter/alarms-buzzers-and-sirens/157"
+    },
+    "category_2": {
+        "name_for_table": "Buzzer Elements, Piezo Benders",
+        "category_name": "Audio Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/160",
+        "old_url": "https://www.digikey.es/en/products/filter/buzzer-elements-piezo-benders/160"
+    },
+    "category_3": {
+        "name_for_table": "Microphones",
+        "category_name": "Audio Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/158",
+        "old_url": "https://www.digikey.es/en/products/filter/microphones/158"
+    },
+    "category_4": {
+        "name_for_table": "Speakers",
+        "category_name": "Audio Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/156",
+        "old_url": "https://www.digikey.es/en/products/filter/speakers/156"
+    },
+    "category_5": {
+        "name_for_table": "Aluminum - Polymer Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/69",
+        "old_url": "https://www.digikey.es/en/products/filter/aluminum-polymer-capacitors/69"
+    },
+    "category_6": {
+        "name_for_table": "Aluminum Electrolytic Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/58",
+        "old_url": "https://www.digikey.es/en/products/filter/aluminum-electrolytic-capacitors/58"
+    },
+    "category_7": {
+        "name_for_table": "Capacitor Networks, Arrays",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/57",
+        "old_url": "https://www.digikey.es/en/products/filter/capacitor-networks-arrays/57"
+    },
+    "category_8": {
+        "name_for_table": "Ceramic Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/60",
+        "old_url": "https://www.digikey.es/en/products/filter/ceramic-capacitors/60"
+    },
+    "category_9": {
+        "name_for_table": "Electric Double Layer Capacitors (EDLC), Supercapacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/61",
+        "old_url": "https://www.digikey.es/en/products/filter/electric-double-layer-capacitors-edlc-supercapacitors/61"
+    },
+    "category_10": {
+        "name_for_table": "Film Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/62",
+        "old_url": "https://www.digikey.es/en/products/filter/film-capacitors/62"
+    },
+    "category_11": {
+        "name_for_table": "Mica and PTFE Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/64",
+        "old_url": "https://www.digikey.es/en/products/filter/mica-and-ptfe-capacitors/64"
+    },
+    "category_12": {
+        "name_for_table": "Niobium Oxide Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/67",
+        "old_url": "https://www.digikey.es/en/products/filter/niobium-oxide-capacitors/67"
+    },
+    "category_13": {
+        "name_for_table": "Silicon Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/68",
+        "old_url": "https://www.digikey.es/en/products/filter/silicon-capacitors/68"
+    },
+    "category_14": {
+        "name_for_table": "Tantalum - Polymer Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/70",
+        "old_url": "https://www.digikey.es/en/products/filter/tantalum-polymer-capacitors/70"
+    },
+    "category_15": {
+        "name_for_table": "Tantalum Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/59",
+        "old_url": "https://www.digikey.es/en/products/filter/tantalum-capacitors/59"
+    },
+    "category_16": {
+        "name_for_table": "Thin Film Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/66",
+        "old_url": "https://www.digikey.es/en/products/filter/thin-film-capacitors/66"
+    },
+    "category_17": {
+        "name_for_table": "Trimmers, Variable Capacitors",
+        "category_name": "Capacitors",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/65",
+        "old_url": "https://www.digikey.es/en/products/filter/trimmers-variable-capacitors/65"
+    },
+    "category_18": {
+        "name_for_table": "Circuit Breakers",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/143",
+        "old_url": "https://www.digikey.es/en/products/filter/circuit-breakers/143"
+    },
+    "category_19": {
+        "name_for_table": "Circuit Protection Accessories",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/145",
+        "old_url": "https://www.digikey.es/en/products/filter/circuit-protection-accessories/145"
+    },
+    "category_20": {
+        "name_for_table": "Electrical, Specialty Fuses",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/155",
+        "old_url": "https://www.digikey.es/en/products/filter/electrical-specialty-fuses/155"
+    },
+    "category_21": {
+        "name_for_table": "Fuseholders",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/140",
+        "old_url": "https://www.digikey.es/en/products/filter/fuseholders/140"
+    },
+    "category_22": {
+        "name_for_table": "Fuses",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/139",
+        "old_url": "https://www.digikey.es/en/products/filter/fuses/139"
+    },
+    "category_23": {
+        "name_for_table": "Gas Discharge Tube Arresters (GDT)",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/142",
+        "old_url": "https://www.digikey.es/en/products/filter/gas-discharge-tube-arresters-gdt/142"
+    },
+    "category_24": {
+        "name_for_table": "Inrush Current Limiters (ICL)",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/151",
+        "old_url": "https://www.digikey.es/en/products/filter/inrush-current-limiters-icl/151"
+    },
+    "category_25": {
+        "name_for_table": "Lighting Protection",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/154",
+        "old_url": "https://www.digikey.es/en/products/filter/lighting-protection/154"
+    },
+    "category_26": {
+        "name_for_table": "PTC Resettable Fuses",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/150",
+        "old_url": "https://www.digikey.es/en/products/filter/ptc-resettable-fuses/150"
+    },
+    "category_27": {
+        "name_for_table": "Surge Suppression Ics",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/152",
+        "old_url": "https://www.digikey.es/en/products/filter/surge-suppression-ics/152"
+    },
+    "category_28": {
+        "name_for_table": "Thermal Cutoffs (Thermal Fuses)",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/146",
+        "old_url": "https://www.digikey.es/en/products/filter/thermal-cutoffs-thermal-fuses/146"
+    },
+    "category_29": {
+        "name_for_table": "Mixed Technology",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/149",
+        "old_url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/mixed-technology/149"
+    },
+    "category_30": {
+        "name_for_table": "Surge Protection Devices (SPDs)",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/992",
+        "old_url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/surge-protection-devices-spds/992"
+    },
+    "category_31": {
+        "name_for_table": "Thyristors",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/147",
+        "old_url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/thyristors/147"
+    },
+    "category_32": {
+        "name_for_table": "TVS Diodes",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/144",
+        "old_url": "https://www.digikey.es/en/products/filter/transient-voltage-suppressors-tvs/tvs-diodes/144"
+    },
+    "category_33": {
+        "name_for_table": "Varistors, MOVs",
+        "category_name": "Circuit Protection",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/141",
+        "old_url": "https://www.digikey.es/en/products/filter/varistors-movs/141"
+    },
+    "category_34": {
+        "name_for_table": "Plugs and Receptacles",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/1170",
+        "old_url": "https://www.digikey.es/en/products/filter/ac-power-connectors/plugs-and-receptacles/1170"
+    },
+    "category_35": {
+        "name_for_table": "Power Entry Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/341",
+        "old_url": "https://www.digikey.es/en/products/filter/ac-power-connectors/power-entry-connector-accessories/341"
+    },
+    "category_36": {
+        "name_for_table": "Power Entry Modules (PEM)",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/301",
+        "old_url": "https://www.digikey.es/en/products/filter/ac-power-connectors/power-entry-modules-pem/301"
+    },
+    "category_37": {
+        "name_for_table": "ARINC",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/386",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/arinc/386"
+    },
+    "category_38": {
+        "name_for_table": "ARINC Inserts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/430",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/arinc-inserts/430"
+    },
+    "category_39": {
+        "name_for_table": "Backplane Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/343",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-accessories/343"
+    },
+    "category_40": {
+        "name_for_table": "Backplane Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/335",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-contacts/335"
+    },
+    "category_41": {
+        "name_for_table": "Backplane Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/372",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/backplane-connector-housings/372"
+    },
+    "category_42": {
+        "name_for_table": "DIN 41612",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/307",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/din-41612/307"
+    },
+    "category_43": {
+        "name_for_table": "Hard Metric, Standard",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/406",
+        "old_url": "https://www.digikey.es/en/products/filter/backplane-connectors/hard-metric-standard/406"
+    },
+    "category_44": {
+        "name_for_table": "Specialized",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/433",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/specialized/433"
+    },
+    "category_45": {
+        "name_for_table": "Banana and Tip Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/351",
+        "old_url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/banana-and-tip-connector-accessories/351"
+    },
+    "category_46": {
+        "name_for_table": "Banana and Tip Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/381",
+        "old_url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/banana-and-tip-connector-adapters/381"
+    },
+    "category_47": {
+        "name_for_table": "Binding Posts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/310",
+        "old_url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/binding-posts/310"
+    },
+    "category_48": {
+        "name_for_table": "Jacks, Plugs",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/302",
+        "old_url": "https://www.digikey.es/en/products/filter/banana-and-tip-connectors/jacks-plugs/302"
+    },
+    "category_49": {
+        "name_for_table": "Audio Connectors",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/434",
+        "old_url": "https://www.digikey.es/en/products/filter/barrel-connectors/audio-connectors/434"
+    },
+    "category_50": {
+        "name_for_table": "Barrel Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/348",
+        "old_url": "https://www.digikey.es/en/products/filter/barrel-connectors/barrel-connector-accessories/348"
+    },
+    "category_51": {
+        "name_for_table": "Barrel Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/376",
+        "old_url": "https://www.digikey.es/en/products/filter/barrel-connectors/barrel-connector-adapters/376"
+    },
+    "category_52": {
+        "name_for_table": "Power Connectors",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/435",
+        "old_url": "https://www.digikey.es/en/products/filter/barrel-connectors/power-connectors/435"
+    },
+    "category_53": {
+        "name_for_table": "Between Series Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/373",
+        "old_url": "https://www.digikey.es/en/products/filter/between-series-adapters/373"
+    },
+    "category_54": {
+        "name_for_table": "Blade Type Power Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/360",
+        "old_url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-accessories/360"
+    },
+    "category_55": {
+        "name_for_table": "Blade Type Power Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/357",
+        "old_url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-assemblies/357"
+    },
+    "category_56": {
+        "name_for_table": "Blade Type Power Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/420",
+        "old_url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-contacts/420"
+    },
+    "category_57": {
+        "name_for_table": "Blade Type Power Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/419",
+        "old_url": "https://www.digikey.es/en/products/filter/blade-type-power-connectors/blade-type-power-connector-housings/419"
+    },
+    "category_58": {
+        "name_for_table": "Card Edge Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/349",
+        "old_url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-accessories/349"
+    },
+    "category_59": {
+        "name_for_table": "Card Edge Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/429",
+        "old_url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-adapters/429"
+    },
+    "category_60": {
+        "name_for_table": "Card Edge Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/345",
+        "old_url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-contacts/345"
+    },
+    "category_61": {
+        "name_for_table": "Card Edge Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/354",
+        "old_url": "https://www.digikey.es/en/products/filter/card-edge-connectors/card-edge-connector-housings/354"
+    },
+    "category_62": {
+        "name_for_table": "Edgeboard Connectors",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/303",
+        "old_url": "https://www.digikey.es/en/products/filter/card-edge-connectors/edgeboard-connectors/303"
+    },
+    "category_63": {
+        "name_for_table": "Backshells and Cable Clamps",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/313",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/backshells-and-cable-clamps/313"
+    },
+    "category_64": {
+        "name_for_table": "Circular Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/329",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-accessories/329"
+    },
+    "category_65": {
+        "name_for_table": "Circular Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/378",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-adapters/378"
+    },
+    "category_66": {
+        "name_for_table": "Circular Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/436",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-assemblies/436"
+    },
+    "category_67": {
+        "name_for_table": "Circular Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/330",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-contacts/330"
+    },
+    "category_68": {
+        "name_for_table": "Circular Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/320",
+        "old_url": "https://www.digikey.es/en/products/filter/circular-connectors/circular-connector-housings/320"
+    },
+    "category_69": {
+        "name_for_table": "Coaxial Connector (RF) Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/342",
+        "old_url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-accessories/342"
+    },
+    "category_70": {
+        "name_for_table": "Coaxial Connector (RF) Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/374",
+        "old_url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-adapters/374"
+    },
+    "category_71": {
+        "name_for_table": "Coaxial Connector (RF) Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/437",
+        "old_url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-assemblies/437"
+    },
+    "category_72": {
+        "name_for_table": "Coaxial Connector (RF) Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/388",
+        "old_url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-contacts/388"
+    },
+    "category_73": {
+        "name_for_table": "Coaxial Connector (RF) Terminators",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/382",
+        "old_url": "https://www.digikey.es/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-terminators/382"
+    },
+    "category_74": {
+        "name_for_table": "Contacts, Spring Loaded (Pogo Pins), and Pressure",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/311",
+        "old_url": "https://www.digikey.es/en/products/filter/contacts/contacts-spring-loaded-pogo-pins-and-pressure/311"
+    },
+    "category_75": {
+        "name_for_table": "Leadframe",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/416",
+        "old_url": "https://www.digikey.es/en/products/filter/contacts/leadframe/416"
+    },
+    "category_76": {
+        "name_for_table": "Multi Purpose",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/336",
+        "old_url": "https://www.digikey.es/en/products/filter/contacts/multi-purpose/336"
+    },
+    "category_77": {
+        "name_for_table": "Centronics Connectors",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/438",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/centronics-connectors/438"
+    },
+    "category_78": {
+        "name_for_table": "D-Sub Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/439",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-connector-assemblies/439"
+    },
+    "category_79": {
+        "name_for_table": "D-Sub, D-Shaped Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/339",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-accessories/339"
+    },
+    "category_80": {
+        "name_for_table": "D-Sub, D-Shaped Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/375",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-adapters/375"
+    },
+    "category_81": {
+        "name_for_table": "D-Sub, D-Shaped Connector Backshells, Hoods",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/355",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-backshells-hoods/355"
+    },
+    "category_82": {
+        "name_for_table": "D-Sub, D-Shaped Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/332",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-contacts/332"
+    },
+    "category_83": {
+        "name_for_table": "D-Sub, D-Shaped Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/321",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-housings/321"
+    },
+    "category_84": {
+        "name_for_table": "D-Sub, D-Shaped Connector Jackscrews",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/447",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-jackscrews/447"
+    },
+    "category_85": {
+        "name_for_table": "D-Sub, D-Shaped Connector Terminators",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/383",
+        "old_url": "https://www.digikey.es/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-terminators/383"
+    },
+    "category_86": {
+        "name_for_table": "FFC, FPC (Flat Flexible) Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/350",
+        "old_url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-accessories/350"
+    },
+    "category_87": {
+        "name_for_table": "FFC, FPC (Flat Flexible) Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/399",
+        "old_url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-assemblies/399"
+    },
+    "category_88": {
+        "name_for_table": "FFC, FPC (Flat Flexible) Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/344",
+        "old_url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-contacts/344"
+    },
+    "category_89": {
+        "name_for_table": "FFC, FPC (Flat Flexible) Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/390",
+        "old_url": "https://www.digikey.es/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-housings/390"
+    },
+    "category_90": {
+        "name_for_table": "Fiber Optic Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/389",
+        "old_url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-accessories/389"
+    },
+    "category_91": {
+        "name_for_table": "Fiber Optic Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/387",
+        "old_url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-adapters/387"
+    },
+    "category_92": {
+        "name_for_table": "Fiber Optic Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/440",
+        "old_url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-assemblies/440"
+    },
+    "category_93": {
+        "name_for_table": "Fiber Optic Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/445",
+        "old_url": "https://www.digikey.es/en/products/filter/fiber-optic-connectors/fiber-optic-connector-housings/445"
+    },
+    "category_94": {
+        "name_for_table": "Heavy Duty Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/358",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-accessories/358"
+    },
+    "category_95": {
+        "name_for_table": "Heavy Duty Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/327",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-assemblies/327"
+    },
+    "category_96": {
+        "name_for_table": "Heavy Duty Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/337",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-contacts/337"
+    },
+    "category_97": {
+        "name_for_table": "Heavy Duty Connector Frames",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/362",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-frames/362"
+    },
+    "category_98": {
+        "name_for_table": "Heavy Duty Connector Housings, Hoods, Bases",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/363",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-housings-hoods-bases/363"
+    },
+    "category_99": {
+        "name_for_table": "Heavy Duty Connector Inserts, Modules",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/361",
+        "old_url": "https://www.digikey.es/en/products/filter/heavy-duty-connectors/heavy-duty-connector-inserts-modules/361"
+    },
+    "category_100": {
+        "name_for_table": "Keystone Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/426",
+        "old_url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-connector-accessories/426"
+    },
+    "category_101": {
+        "name_for_table": "Keystone Faceplates, Frames",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/427",
+        "old_url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-faceplates-frames/427"
+    },
+    "category_102": {
+        "name_for_table": "Keystone Inserts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/428",
+        "old_url": "https://www.digikey.es/en/products/filter/keystone-connectors/keystone-inserts/428"
+    },
+    "category_103": {
+        "name_for_table": "LGH Connectors",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/441",
+        "old_url": "https://www.digikey.es/en/products/filter/lgh-connectors/441"
+    },
+    "category_104": {
+        "name_for_table": "Inline Module Sockets",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/413",
+        "old_url": "https://www.digikey.es/en/products/filter/memory-connectors/inline-module-sockets/413"
+    },
+    "category_105": {
+        "name_for_table": "Memory Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/352",
+        "old_url": "https://www.digikey.es/en/products/filter/memory-connectors/memory-connector-accessories/352"
+    },
+    "category_106": {
+        "name_for_table": "PC Card Sockets",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/414",
+        "old_url": "https://www.digikey.es/en/products/filter/memory-connectors/pc-card-sockets/414"
+    },
+    "category_107": {
+        "name_for_table": "PC Cards - Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/421",
+        "old_url": "https://www.digikey.es/en/products/filter/memory-connectors/pc-cards-adapters/421"
+    },
+    "category_108": {
+        "name_for_table": "Modular Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/442",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-accessories/442"
+    },
+    "category_109": {
+        "name_for_table": "Modular Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/379",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-adapters/379"
+    },
+    "category_110": {
+        "name_for_table": "Modular Connector Jacks",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/366",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-jacks/366"
+    },
+    "category_111": {
+        "name_for_table": "Modular Connector Jacks With Magnetics",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/365",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-jacks-with-magnetics/365"
+    },
+    "category_112": {
+        "name_for_table": "Modular Connector Plug Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/403",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-plug-housings/403"
+    },
+    "category_113": {
+        "name_for_table": "Modular Connector Plugs",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/367",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-plugs/367"
+    },
+    "category_114": {
+        "name_for_table": "Modular Connector Wiring Blocks",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/418",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-wiring-blocks/418"
+    },
+    "category_115": {
+        "name_for_table": "Modular Connector Wiring Blocks Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/417",
+        "old_url": "https://www.digikey.es/en/products/filter/modular-connectors/modular-connector-wiring-blocks-accessories/417"
+    },
+    "category_116": {
+        "name_for_table": "Photovoltaic (Solar Panel) Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/424",
+        "old_url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-accessories/424"
+    },
+    "category_117": {
+        "name_for_table": "Photovoltaic (Solar Panel) Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/326",
+        "old_url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-assemblies/326"
+    },
+    "category_118": {
+        "name_for_table": "Photovoltaic (Solar Panel) Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/423",
+        "old_url": "https://www.digikey.es/en/products/filter/photovoltaic-solar-panel-connectors/photovoltaic-solar-panel-connector-contacts/423"
+    },
+    "category_119": {
+        "name_for_table": "Pluggable Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/346",
+        "old_url": "https://www.digikey.es/en/products/filter/pluggable-connectors/pluggable-connector-accessories/346"
+    },
+    "category_120": {
+        "name_for_table": "Pluggable Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/443",
+        "old_url": "https://www.digikey.es/en/products/filter/pluggable-connectors/pluggable-connector-assemblies/443"
+    },
+    "category_121": {
+        "name_for_table": "Arrays, Edge Type, Mezzanine (Board to Board)",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/308",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308"
+    },
+    "category_122": {
+        "name_for_table": "Board In, Direct Wire to Board",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/317",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/board-in-direct-wire-to-board/317"
+    },
+    "category_123": {
+        "name_for_table": "Board Spacers, Stackers (Board to Board)",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/400",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/board-spacers-stackers-board-to-board/400"
+    },
+    "category_124": {
+        "name_for_table": "Free Hanging, Panel Mount",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/316",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/free-hanging-panel-mount/316"
+    },
+    "category_125": {
+        "name_for_table": "Headers, Male Pins",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/314",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-male-pins/314"
+    },
+    "category_126": {
+        "name_for_table": "Headers, Receptacles, Female Sockets",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/315",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-receptacles-female-sockets/315"
+    },
+    "category_127": {
+        "name_for_table": "Headers, Specialty Pin",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/318",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/headers-specialty-pin/318"
+    },
+    "category_128": {
+        "name_for_table": "Rectangular Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/340",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-accessories/340"
+    },
+    "category_129": {
+        "name_for_table": "Rectangular Connector Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/380",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-adapters/380"
+    },
+    "category_130": {
+        "name_for_table": "Rectangular Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/331",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-contacts/331"
+    },
+    "category_131": {
+        "name_for_table": "Rectangular Connector Housings",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/319",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/rectangular-connector-housings/319"
+    },
+    "category_132": {
+        "name_for_table": "Spring Loaded",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/408",
+        "old_url": "https://www.digikey.es/en/products/filter/rectangular-connectors/spring-loaded/408"
+    },
+    "category_133": {
+        "name_for_table": "Shunts, Jumpers",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/304",
+        "old_url": "https://www.digikey.es/en/products/filter/shunts-jumpers/304"
+    },
+    "category_134": {
+        "name_for_table": "IC Sockets",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/409",
+        "old_url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/ic-sockets/409"
+    },
+    "category_135": {
+        "name_for_table": "Socket Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/410",
+        "old_url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/socket-accessories/410"
+    },
+    "category_136": {
+        "name_for_table": "Socket Adapters",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/411",
+        "old_url": "https://www.digikey.es/en/products/filter/sockets-for-ics-transistors/socket-adapters/411"
+    },
+    "category_137": {
+        "name_for_table": "Solid State Lighting Connector Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/432",
+        "old_url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-accessories/432"
+    },
+    "category_138": {
+        "name_for_table": "Solid State Lighting Connector Assemblies",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/444",
+        "old_url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-assemblies/444"
+    },
+    "category_139": {
+        "name_for_table": "Solid State Lighting Connector Contacts",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/446",
+        "old_url": "https://www.digikey.es/en/products/filter/solid-state-lighting-connectors/solid-state-lighting-connector-contacts/446"
+    },
+    "category_140": {
+        "name_for_table": "Barrier Blocks",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/368",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/barrier-blocks/368"
+    },
+    "category_141": {
+        "name_for_table": "Din Rail, Channel",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/369",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/din-rail-channel/369"
+    },
+    "category_142": {
+        "name_for_table": "Headers, Plugs and Sockets",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/370",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/headers-plugs-and-sockets/370"
+    },
+    "category_143": {
+        "name_for_table": "Interface Modules",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/431",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/interface-modules/431"
+    },
+    "category_144": {
+        "name_for_table": "Panel Mount",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/425",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/panel-mount/425"
+    },
+    "category_145": {
+        "name_for_table": "Power Distribution",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/412",
+        "old_url": "https://www.digikey.es/en/products/filter/terminal-blocks/power-distribution/412"
+    },
+    "category_146": {
+        "name_for_table": "Terminal Block Accessories",
+        "category_name": "Connectors, Interconnects",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2033",
+        "old_url": "https://www.digikey.es/en/products/category/terminal-blocks/terminal-block-accessories/2033"
+    },
     "category_147": {
         "name_for_table": "Terminal Block Adapters",
         "category_name": "Connectors, Interconnects",
@@ -215,6 +1091,12 @@
         "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/299",
         "old_url": "https://www.digikey.es/en/products/filter/diodes/bridge-rectifiers/299"
     },
+    "category_183": {
+        "name_for_table": "Rectifiers",
+        "category_name": "Discrete Semiconductor Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2085",
+        "old_url": "https://www.digikey.es/en/products/category/diodes/rectifiers/2085"
+    },
     "category_184": {
         "name_for_table": "RF Diodes",
         "category_name": "Discrete Semiconductor Products",
@@ -226,6 +1108,12 @@
         "category_name": "Discrete Semiconductor Products",
         "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/282",
         "old_url": "https://www.digikey.es/en/products/filter/diodes/variable-capacitance-varicaps-varactors/282"
+    },
+    "category_186": {
+        "name_for_table": "Zener",
+        "category_name": "Discrete Semiconductor Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2086",
+        "old_url": "https://www.digikey.es/en/products/category/diodes/zener/2086"
     },
     "category_187": {
         "name_for_table": "Power Driver Modules",
@@ -256,6 +1144,24 @@
         "category_name": "Discrete Semiconductor Products",
         "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/300",
         "old_url": "https://www.digikey.es/en/products/filter/thyristors/triacs/300"
+    },
+    "category_192": {
+        "name_for_table": "Bipolar (BJT)",
+        "category_name": "Discrete Semiconductor Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2087",
+        "old_url": "https://www.digikey.es/en/products/category/transistors/bipolar-bjt/2087"
+    },
+    "category_193": {
+        "name_for_table": "FETs, MOSFETs",
+        "category_name": "Discrete Semiconductor Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2088",
+        "old_url": "https://www.digikey.es/en/products/category/transistors/fets-mosfets/2088"
+    },
+    "category_194": {
+        "name_for_table": "IGBTs",
+        "category_name": "Discrete Semiconductor Products",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2089",
+        "old_url": "https://www.digikey.es/en/products/category/transistors/igbts/2089"
     },
     "category_195": {
         "name_for_table": "JFETs",
@@ -568,6 +1474,12 @@
         "category_name": "Integrated Circuits (ICs)",
         "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/733",
         "old_url": "https://www.digikey.es/en/products/filter/interface/voice-record-and-playback/733"
+    },
+    "category_247": {
+        "name_for_table": "Amplifiers",
+        "category_name": "Integrated Circuits (ICs)",
+        "url_to_download": "https://www.digikey.es/products/api/v5/filter-page/products-download/2034",
+        "old_url": "https://www.digikey.es/en/products/category/linear/amplifiers/2034"
     },
     "category_248": {
         "name_for_table": "Analog Multipliers, Dividers",
