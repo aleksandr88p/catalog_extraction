@@ -1,11 +1,19 @@
 import asyncpg
 import asyncio
 
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+DB_HOST = os.getenv("DB_HOST")
+DB_PORT = os.getenv("DB_PORT")
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_DATABASE = os.getenv("DB_DATABASE")
 async def fetch_table_content(table_name: str):
     # Замените эти значения на свои параметры подключения
-    conn = await asyncpg.connect(user="catalog_user", password="catalogUSERpassword", database="draftcatalog",
-                                 host="localhost", port=5432)
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
+                                 host=DB_HOST, port=DB_PORT)
 
     # Замените "your_table_name" на имя вашей таблицы
     table_name = f"{table_name}"
@@ -27,8 +35,8 @@ async def fetch_table_content(table_name: str):
 
 async def fetch_table_names():
     # Параметры подключения к базе данных
-    conn = await asyncpg.connect(user="catalog_user", password="catalogUSERpassword", database="draftcatalog",
-                                 host="localhost", port=5432)
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
+                                 host=DB_HOST, port=DB_PORT)
 
     # SQL запрос для получения списка имен таблиц
     # Этот запрос выбирает имена всех таблиц из схемы "public"
@@ -51,8 +59,8 @@ async def fetch_table_names():
 
 
 async def fetch_table_schema(table_name: str):
-    conn = await asyncpg.connect(user="catalog_user", password="catalogUSERpassword", database="draftcatalog",
-                                 host="localhost", port=5432)
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
+                                 host=DB_HOST, port=DB_PORT)
     query = f"""
     SELECT column_name
     FROM information_schema.columns
@@ -66,8 +74,8 @@ async def fetch_table_schema(table_name: str):
 
 
 async def drop_table(table_name: str):
-    conn = await asyncpg.connect(user="catalog_user", password="catalogUSERpassword", database="draftcatalog",
-                                 host="localhost", port=5432)
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
+                                 host=DB_HOST, port=DB_PORT)
     query = f"DROP TABLE IF EXISTS {table_name};"
     await conn.execute(query)
     print(f"Table {table_name} has been dropped.")
