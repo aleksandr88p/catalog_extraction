@@ -132,6 +132,7 @@ async def insert_unique_url(image_url: str):
             VALUES ($1)
             ON CONFLICT (image_url) DO NOTHING;
         ''', image_url)
+        print(f"iserted {image_url}'")
     except Exception as e:
         print(f"An error occurred while inserting URL: {e}")
     finally:
