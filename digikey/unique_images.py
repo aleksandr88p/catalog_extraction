@@ -41,13 +41,16 @@ async def fetch_table_names():
     # Выполняем запрос
     rows = await conn.fetch(query)
 
+    table_names = []
     # Выводим результаты
-    print("List of tables in the database:")
+    # print("List of tables in the database:")
     for row in rows:
-        print(row['table_name'])
+        table_names.append(row["table_name"])
+        # print(row['table_name'])
 
     # Закрываем соединение
     await conn.close()
+    return table_names
 
 
 async def fetch_table_schema(table_name: str):
@@ -74,16 +77,19 @@ async def drop_table(table_name: str):
     await conn.close()
 
 
-# asyncio.run(fetch_table_names())
-print(1)
-# asyncio.run(fetch_table_names())
-# res = asyncio.run(fetch_table_content(table_name='headers_specialty_pin'))
-# print(len(res))
-# for index, row in enumerate(res):
-#     print(row)
-    # if index == 15:
-    #     break
 
+table_names = asyncio.run(fetch_table_names())
+
+c = 0
+for table_name in table_names:
+    res = asyncio.run(fetch_table_content(table_name=table_name))
+    # print(len(res))
+    for index, row in enumerate(res):
+        # print(row['image'])
+        # if index == 15:
+        #     break
+        c += 1
+print(f"There are {c} items")
 # res = asyncio.run(fetch_table_schema(table_name='alarms_buzzers_and_sirens'))
 # print(len(res))
 # asyncio.run(drop_table("alarms_buzzers_and_sirens"))
