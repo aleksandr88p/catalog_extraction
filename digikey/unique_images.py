@@ -113,22 +113,21 @@ async def add_base64_column():
         await conn.close()
 
 
-async def insert_unique_url(image_url: str):
+async def insert_unique_urls(urls):
     conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST, port=DB_PORT)
     try:
-        # Используем ON CONFLICT DO NOTHING, чтобы игнорировать попытку вставки дубликатов
-        await conn.execute('''
+        # Подготавливаем данные для массовой вставки
+        values = [(url,) for url in urls]
+        await conn.executemany('''
             INSERT INTO only_images_for_project (image_url)
             VALUES ($1)
             ON CONFLICT (image_url) DO NOTHING;
-        ''', image_url)
-        print(f"iserted {image_url}'")
+        ''', values)
+        print(f"Inserted {len(urls)} URLs")
     except Exception as e:
-        print(f"An error occurred while inserting URL: {e}")
+        print(f"An error occurred while inserting URLs: {e}")
     finally:
         await conn.close()
-
-
 
 
 async def main():
@@ -143,6 +142,17 @@ async def main():
                 print(f"{table_name}\n{e}")
                 break
     print(f"Total unique URLs collected: {len(all_unique_urls)}")
+    batch_size = 5000  # Определите оптимальный размер пакета
+    urls_list = list(all_unique_urls)
+    с = 0
+    for i in range(0, len(urls_list), batch_size):
+        с += 1
+        print(с)
+        batch_urls = urls_list[i:i + batch_size]
+        await insert_unique_urls(batch_urls)
+
+    print('Проверяй Unique URLs в таблице')
+
 
 
 
