@@ -91,13 +91,13 @@ table_names = asyncio.run(fetch_table_names())
 c = 0
 for table_name in table_names:
     res = asyncio.run(fetch_table_content(table_name=table_name))
-    # print(len(res))
-    for index, row in enumerate(res):
+    print(len(res))
+    # for index, row in enumerate(res):
         # print(row['image'])
         # if index == 15:
         #     break
-        c += 1
-print(f"There are {c} items")
+        # c += 1
+# print(f"There are {c} items")
 # res = asyncio.run(fetch_table_schema(table_name='alarms_buzzers_and_sirens'))
 # print(len(res))
 # asyncio.run(drop_table("alarms_buzzers_and_sirens"))
