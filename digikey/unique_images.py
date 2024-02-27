@@ -135,12 +135,13 @@ async def main():
     table_names = await fetch_table_names()
     all_unique_urls = set()
     for table_name in table_names:
-        try:
-            table_urls = await fetch_table_content_image(table_name)
-            all_unique_urls.update(table_urls)  # Добавляем уникальные URL из каждой таблицы
-        except Exception as e:
-            print(f"{table_name}\n{e}")
-            break
+        if table_name != 'only_images_for_project':
+            try:
+                table_urls = await fetch_table_content_image(table_name)
+                all_unique_urls.update(table_urls)  # Добавляем уникальные URL из каждой таблицы
+            except Exception as e:
+                print(f"{table_name}\n{e}")
+                break
     print(f"Total unique URLs collected: {len(all_unique_urls)}")
 
 
