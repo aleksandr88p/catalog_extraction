@@ -10,6 +10,7 @@ DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_DATABASE = os.getenv("DB_DATABASE")
 
+
 async def fetch_table_content(table_name: str):
     # Замените эти значения на свои параметры подключения
     conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
@@ -85,18 +86,77 @@ async def drop_table(table_name: str):
     await conn.close()
 
 
+async def create_images_table():
+    '''
+    таблица для изображений
+    :return:
+    '''
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST, port=DB_PORT)
+    try:
+        await conn.execute('''
+            CREATE TABLE IF NOT EXISTS only_images_for_project (
+                id SERIAL PRIMARY KEY,
+                image_url VARCHAR(255) UNIQUE
+            );
+        ''')
+        print("Table 'images' created successfully.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    finally:
+        await conn.close()
 
-table_names = asyncio.run(fetch_table_names())
+asyncio.run(create_images_table())
+async def add_base64_column():
+    '''
+    когда соберу уникальные ссылки, тогда добавлю колонку
+    :return:
+    '''
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST, port=DB_PORT)
+    try:
+        await conn.execute('''
+            ALTER TABLE only_images_for_project ADD COLUMN image_base64 TEXT;
+        ''')
+        print("Column 'image_base64' added successfully to 'images' table.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    finally:
+        await conn.close()
 
-c = 0
-for table_name in table_names:
-    res = asyncio.run(fetch_table_content(table_name=table_name))
-    print(len(res))
-    # for index, row in enumerate(res):
-        # print(row['image'])
-        # if index == 15:
-        #     break
-        # c += 1
+
+async def insert_unique_url(image_url: str):
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST, port=DB_PORT)
+    try:
+        # Используем ON CONFLICT DO NOTHING, чтобы игнорировать попытку вставки дубликатов
+        await conn.execute('''
+            INSERT INTO only_images_for_project (image_url)
+            VALUES ($1)
+            ON CONFLICT (image_url) DO NOTHING;
+        ''', image_url)
+    except Exception as e:
+        print(f"An error occurred while inserting URL: {e}")
+    finally:
+        await conn.close()
+
+
+
+
+async def main():
+    table_names = asyncio.run(fetch_table_names())
+    for table_name in table_names:
+        res = asyncio.run(fetch_table_content(table_name=table_name))
+        # print(len(res))
+        for index, row in enumerate(res):
+            image_url = row['image']
+            if "//mm.digikey.com" in image_url:
+                await insert_unique_url(image_url=image_url)
+
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+
+
+
 # print(f"There are {c} items")
 # res = asyncio.run(fetch_table_schema(table_name='alarms_buzzers_and_sirens'))
 # print(len(res))

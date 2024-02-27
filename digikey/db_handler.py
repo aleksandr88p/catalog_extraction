@@ -32,6 +32,8 @@ async def fetch_table_columns(conn, table_name):
     rows = await conn.fetch(query)
     return [row['column_name'] for row in rows]
 
+
+
 async def add_column_to_table(conn, table_name, column_name):
     query = f"""ALTER TABLE "{table_name}" ADD COLUMN "{column_name}" TEXT;"""
     await conn.execute(query)
