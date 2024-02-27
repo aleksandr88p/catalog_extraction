@@ -11,28 +11,17 @@ DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_DATABASE = os.getenv("DB_DATABASE")
 
 
-async def fetch_table_content(table_name: str):
-    # Замените эти значения на свои параметры подключения
+async def fetch_table_content_image(table_name: str):
     conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
                                  host=DB_HOST, port=DB_PORT)
-
-    # Замените "your_table_name" на имя вашей таблицы
-    table_name = f"{table_name}"
-    query = f"SELECT * FROM {table_name};"
-
-    # Выполняем запрос
+    query = f"SELECT image FROM {table_name} WHERE image LIKE '%//mm.digikey.com%';"  # Оптимизация запроса
     rows = await conn.fetch(query)
-
-    results = []
-    # Выводим результаты
+    results = set()
     for row in rows:
-        results.append(row)
-
-    # Не забудьте закрыть соединение
+        results.add(row['image'])  # Предполагается, что структура row - это словарь
     await conn.close()
-
+    print(f"Fetched {len(results)} unique URLs in {table_name}")
     return results
-
 
 async def fetch_table_names():
     # Параметры подключения к базе данных
@@ -99,12 +88,13 @@ async def create_images_table():
                 image_url VARCHAR(255) UNIQUE
             );
         ''')
-        print("Table 'images' created successfully.")
+        print("Table 'only_images_for_project' created successfully.")
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
         await conn.close()
 
+# asyncio.run(create_images_table())
 
 async def add_base64_column():
     '''
@@ -143,13 +133,11 @@ async def insert_unique_url(image_url: str):
 
 async def main():
     table_names = await fetch_table_names()
+    all_unique_urls = set()
     for table_name in table_names:
-        res = await fetch_table_content(table_name=table_name)
-        # print(len(res))
-        for index, row in enumerate(res):
-            image_url = row['image']
-            if "//mm.digikey.com" in image_url:
-                await insert_unique_url(image_url=image_url)
+        table_urls = await fetch_table_content_image(table_name)
+        all_unique_urls.update(table_urls)  # Добавляем уникальные URL из каждой таблицы
+    print(f"Total unique URLs collected: {len(all_unique_urls)}")
 
 
 
