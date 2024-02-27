@@ -105,7 +105,7 @@ async def create_images_table():
     finally:
         await conn.close()
 
-asyncio.run(create_images_table())
+
 async def add_base64_column():
     '''
     когда соберу уникальные ссылки, тогда добавлю колонку
@@ -152,8 +152,8 @@ async def main():
 
 
 
-# if __name__ == "__main__":
-#     asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
 
 
 
