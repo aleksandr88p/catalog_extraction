@@ -142,7 +142,7 @@ async def insert_unique_url(image_url: str):
 
 
 async def main():
-    table_names = asyncio.run(fetch_table_names())
+    table_names = await fetch_table_names()
     for table_name in table_names:
         res = asyncio.run(fetch_table_content(table_name=table_name))
         # print(len(res))
