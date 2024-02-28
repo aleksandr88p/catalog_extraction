@@ -154,7 +154,7 @@ async def main():
     print('Проверяй Unique URLs в таблице')
 
 
-
+print(1)
 
 if __name__ == "__main__":
     asyncio.run(main())
