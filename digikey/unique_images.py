@@ -144,10 +144,10 @@ async def main():
     print(f"Total unique URLs collected: {len(all_unique_urls)}")
     batch_size = 5000  # Определите оптимальный размер пакета
     urls_list = list(all_unique_urls)
-    с = 0
+    c = 0
     for i in range(0, len(urls_list), batch_size):
-        с += 1
-        print(с)
+        c += 1
+        print(c)
         batch_urls = urls_list[i:i + batch_size]
         await insert_unique_urls(batch_urls)
 
