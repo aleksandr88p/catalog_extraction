@@ -10,6 +10,23 @@ DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_DATABASE = os.getenv("DB_DATABASE")
 
+"""
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/793/SMI-1324-TW-12V-R,SMT-1324-TW-12V-R,SMT-1324-TW-1V-R,SMT-1324-TW-5V-R.jpg"""
+
+async def get_image_url_from_only_images_for_project():
+    conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
+                                 host=DB_HOST, port=DB_PORT)
+    query = "SELECT * FROM only_images_for_project"
+    rows = await conn.fetch(query)
+    result = []
+    for row in rows:
+        print(row)
+
+    await conn.close()
+
+
+asyncio.run(get_image_url_from_only_images_for_project())
+
 
 async def fetch_table_content_image(table_name: str):
     conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE,
@@ -112,6 +129,7 @@ async def add_base64_column():
     finally:
         await conn.close()
 
+# asyncio.run(add_base64_column())
 
 async def insert_unique_urls(urls):
     conn = await asyncpg.connect(user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE, host=DB_HOST, port=DB_PORT)
@@ -156,8 +174,8 @@ async def main():
 
 print(1)
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# if __name__ == "__main__":
+#     asyncio.run(main())
 
 
 
