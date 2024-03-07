@@ -174,7 +174,6 @@ def fetch_data_and_write_to_csv(table_names):
     conn.close()
 
 
-
 def fetch_data_and_incrementally_write_to_json(table_names):
     conn = psycopg2.connect(
         host=DB_HOST,
@@ -186,34 +185,28 @@ def fetch_data_and_incrementally_write_to_json(table_names):
     cur = conn.cursor()
 
     with open('products.json', 'w', encoding='utf-8') as json_file:
-        first_table = True
-        json_file.write('{\n')  # Начало объекта JSON
-
+        json_file.write('{\n')  # Начало корневого объекта JSON
         for i, table in enumerate(table_names):
             if table != 'only_images_for_project':
                 try:
                     cur.execute(f"SELECT * FROM \"{table}\";")
                     rows = cur.fetchall()
                     column_names = [desc[0] for desc in cur.description]
-
                     table_data = [dict(zip(column_names, row)) for row in rows]
 
-                    # Если это не первая таблица, добавляем запятую перед новым ключом
-                    if not first_table:
-                        json_file.write(',\n')
-                    else:
-                        first_table = False
-
-                    # Преобразование данных таблицы в строку JSON и запись в файл
+                    # Преобразование данных таблицы в строку JSON
                     table_json = json.dumps({table: table_data}, ensure_ascii=False, indent=4)
-                    json_file.write(table_json)
-
-                    print(f'{table} готово!')
+                    # Удаление первой и последней фигурной скобки из строки JSON
+                    table_json = table_json[table_json.find('{') + 1: table_json.rfind('}')]
+                    # Добавление данных в файл, следя за запятыми между таблицами
+                    if i > 0:
+                        json_file.write(',\n' + table_json)
+                    else:
+                        json_file.write(table_json)
                 except Exception as e:
                     print(f"Ошибка при обработке таблицы {table}: {e}")
                     continue
-
-        json_file.write('\n}')  # Конец объекта JSON
+        json_file.write('\n}')  # Закрытие корневого объекта JSON
 
     cur.close()
     conn.close()
@@ -221,7 +214,7 @@ def fetch_data_and_incrementally_write_to_json(table_names):
 
 tables = show_table_names()
 
-fetch_data_and_incrementally_write_to_json(tables[:3])
+# fetch_data_and_incrementally_write_to_json(tables[:3])
 # fetch_data_and_write_to_csv(tables)
 
 
