@@ -57,13 +57,11 @@ async def fetch_table_names():
     rows = await conn.fetch(query)
 
     table_names = []
-    # Выводим результаты
     # print("List of tables in the database:")
     for row in rows:
         table_names.append(row["table_name"])
         # print(row['table_name'])
 
-    # Закрываем соединение
     await conn.close()
     return table_names
 

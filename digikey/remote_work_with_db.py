@@ -87,7 +87,6 @@ def execute_select_query(table_name):
 
     cur = conn.cursor()
 
-    # Формирование безопасного запроса с использованием параметризации
     cur.execute(f"SELECT voltage_rating FROM public.{table_name};")
 
     print(f"Результаты запроса к таблице {table_name}:")
@@ -131,11 +130,10 @@ def export_table_to_csv(table_name, csv_file_path):
 
 """category_name"""
 
-# execute_select_query("heavy_duty_connector_inserts_modules")
 
 # Пример использования:
 table_name = 'only_images_for_project'
-csv_file_path = f'{table_name}.csv'  # Укажите путь к файлу CSV
+csv_file_path = f'{table_name}.csv'
 # export_table_to_csv(table_name, csv_file_path)
 
 """heavy_duty_connector_inserts_modules"""
@@ -151,7 +149,6 @@ def fetch_data_and_write_to_csv(table_names):
     )
     cur = conn.cursor()
 
-    # Открываем файл для записи
     with open('categories_and_tables.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['table_name', 'category_name', 'subcategory_name'])
@@ -169,7 +166,6 @@ def fetch_data_and_write_to_csv(table_names):
                     print(f"Ошибка при обработке таблицы {table}: {e}")
                     continue
 
-    # Закрытие соединений
     cur.close()
     conn.close()
 
