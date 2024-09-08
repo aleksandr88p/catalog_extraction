@@ -20,21 +20,3 @@ Studying the API and its methods will take about 3-5 hours.
 
 These are approximate timeframes.
 
-
-links = ['https://www.mouser.com/c/semiconductors/', 'https://www.mouser.com/c/circuit-protection/',
-'https://www.mouser.com/c/connectors/', 'https://www.mouser.com/c/electromechanical/', 'https://www.mouser.com/c/embedded-solutions/',
-'https://www.mouser.com/c/optoelectronics/',
-'https://www.mouser.com/c/passive-components/', 'https://www.mouser.com/c/rf-wireless/', 'https://www.mouser.com/c/sensors/']
-
-that site i need to scrape
-https://www.mouser.com/electronic-components/
-and all goods from that categories and subcategories
--Semiconductors          https://www.mouser.com/c/semiconductors/
--Circuit Protection      https://www.mouser.com/c/circuit-protection/
--Connectors              https://www.mouser.com/c/connectors/
-- Electromechanical      https://www.mouser.com/c/electromechanical/
--Embedded Solutions      https://www.mouser.com/c/embedded-solutions/
--Opto-electronics        https://www.mouser.com/c/optoelectronics/
--Passive Components      https://www.mouser.com/c/passive-components/
--RF & Wireless           https://www.mouser.com/c/rf-wireless/
--Sensors                 https://www.mouser.com/c/sensors/
